@@ -1,10 +1,12 @@
 ![Sample Image](/images/Prolog_01.jpg)
 
-Prolog is a continuation of the Libre Moretus project. The Libre Moretus project was started by Eli Heuer. Eli's idea was great, but when I tried to propose a Cyrillic version of the project, the work did not work out. Eli changed the direction of work and preferred to work alone, converting his original project into the Epistle font. To smooth the change, Dave Crosland created his own Libre Moretus repository.
-I must admit that due to the lack of the necessary experience and due to insufficient information about the history of the Plantin project, my first attempts at Cyrillic for the Libre Moretus font were chaotic. And although these attempts, with a number of changes, were included by Eli Heuer in his Epistle project, I still think that we are still at a dead end. And since I am convinced that a project in the spirit of Plantin Moretus would have a serious presence in the modern printed and digital sphere, I decided to continue my work, but now under the name of the Prolog project. Whether this name will remain in the final form of the font family, I do not yet know - for now it is a great working title. The more important thing is that the work continues. Enough reference materials need to be collected and the development of the idea for a font, inspired by Granjon's Gros Cicero and subsequently continued as Plantin-Moretus, needs to be carefully monitored.
+Prolog is a continuation of the Libre Moretus project. The Libre Moretus project was started by Eli Heuer. Eli's idea was great, but when I tried to propose a Cyrillic version of the project, the work did not work out. Eli changed the direction of work and preferred to work alone, converting his original project into the Epistle font. To smooth the change, Dave Crosland created his own Libre Moretus repository. 
+ 
+I must admit that due to the lack of the necessary experience and due to insufficient information about the history of the Plantin project, my first attempts at Cyrillic for the Libre Moretus font were chaotic. And although these attempts, with a number of changes, were included by Eli Heuer in his Epistle project, I still think that we are still at a dead end. And since I am convinced that a project in the spirit of Plantin Moretus would have a serious presence in the modern printed and digital sphere, I decided to continue my work, but now under the name of the Prolog project. Whether this name will remain in the final form of the font family, I do not yet know - for now it is a great working title. The more important thing is that the work continues. Enough reference materials need to be collected and the development of the idea for a font, inspired by Granjon's Gros Cicero and subsequently continued as Plantin-Moretus, needs to be carefully monitored. 
+ 
 Libre Moretus is a revival of the Plantin typeface, as designed by Frank Hinman Pierpont in 1913 for Monotype, and the name is still a registered trademark in the USA. The primary referance source is scans of Letraset Plantin 110. 
-
-Below is a scan from a Letraset specimen book, used for development reference:
+ 
+Below is a scan from a Letraset specimen book, used for development reference: 
 
 ![Sample Image](/reference/letraset-specimen-110-bold-web.jpg)
 
@@ -19,20 +21,9 @@ Below is a scan from a Letraset specimen book, used for development reference:
 * [Resources](#resources)
 * [License](#license)
 
-## Quick installation
-
-#### GNU/Linux
-[TODO] Info here. 
-
-#### Windows
-[TODO] Info here. 
-
-#### MacOS
-[TODO] Info here. 
-
 ## Overview of Features
 
-- **Typeface Name**: Libre Moretus
+- **Typeface Name**: Prolog
 - **Category**: Old-style
 - **Number of Glyphs**: ___
 - **Included Styles**: Regular, Bold, Italic, Bold Italic
@@ -54,11 +45,15 @@ The Libre Plantin Project Authors includes:
 
 * Eli Heuer
 
+Copyright 2025 The Prolog Project Authors.
+
+See [OFL.txt](OFL.txt) for the full texts of the licenses.
+
 The Prolog Project Authors includes:
 
 * Stefan Peev
 
-# History
+# History of Plantin
 
 Plantin is an old-style serif typeface named after the printer Christophe Plantin. It was first cut in 1913 by Fritz Stelzer under the guidance of Frank Hinman Pierpont for the Monotype Corporation, and is based on a Gros Cicero face cut in the 16th century by Robert Granjon.[1] Plantin is one of the typefaces that influenced the creation of Times New Roman in the 1930s.[2]
 
