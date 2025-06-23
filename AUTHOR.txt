@@ -4,5 +4,7 @@
 # 
 # Names should be added to this file as:
 # Name or Organization <email address>
-
-Eli Heuer <eliheuer@gmail.com>
+ 
+Stefan Peev <localfonts.eu@gmail.com>, author of the project Prolog 
+ 
+Eli Heuer <eliheuer@gmail.com>, author of the project Libre-Moretus 
