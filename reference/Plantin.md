@@ -17,5 +17,7 @@ The font was used as the signature font for ABC News from 1978 until the late 19
 Jan Moretus was a Flemish printer born in Antwerp who married Plantin's daughter and became the owner of Plantin's printing company.
 
 ## Sources
-+ [Plantin 110](https://collection.sciencemuseumgroup.org.uk/search?q=Plantin%20110)
++ [Plantin (Wikipedia)](https://en.wikipedia.org/wiki/Plantin_(typeface))
++ [Plantin 110](https://collection.sciencemuseumgroup.org.uk/search?q=Plantin%20110) 
++ [Plantin (Fonts in Use)](https://fontsinuse.com/typefaces/4376/plantin)
 + [Martina Plantijn design information](https://klim.co.nz/blog/martina-plantijn-design-information/)
