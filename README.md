@@ -6,14 +6,6 @@ I must admit that due to the lack of the necessary experience and due to insuffi
  
 Libre Moretus is a revival of the Plantin typeface, as designed by Frank Hinman Pierpont in 1913 for Monotype, and the name is still a registered trademark in the USA. The primary referance source is scans of Letraset Plantin 110. 
  
-Below is a scan from a Letraset specimen book, used for development reference: 
-
-![Sample Image](/reference/letraset-specimen-110-bold-web.jpg)
-
-![Sample Image](/documentation/screenshots/screenshot-from-2016-12-06-001.png)
-
-![Sample Image](/documentation/screenshots/screenshot-from-2016-12-06-002.png)
-
 ### Contents
 
 * [Installation](#installation)
