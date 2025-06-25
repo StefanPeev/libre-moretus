@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+  <advance width="750"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <component base="D"/>
+    <contour>
+      <point x="20" y="408.5" type="line"/>
+      <point x="20" y="363.5" type="line"/>
+      <point x="448" y="363.5" type="line"/>
+      <point x="448" y="408.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w750m20,408.5l20,363.5l448,363.5l448,408.5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 40</string>
+          <string>hstem 0 30</string>
+          <string>hstem 350 70</string>
+          <string>hstem 660 40</string>
+          <string>hstem 670 30</string>
+          <string>vstem 150 110</string>
+          <string>vstem 590 120</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

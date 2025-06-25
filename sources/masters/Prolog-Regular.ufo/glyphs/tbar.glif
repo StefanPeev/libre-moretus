@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="2">
+  <advance width="330"/>
+  <unicode hex="0167"/>
+  <outline>
+    <component base="t"/>
+    <contour>
+      <point x="10" y="287.5" type="line"/>
+      <point x="10" y="242.5" type="line"/>
+      <point x="310" y="242.5" type="line"/>
+      <point x="310" y="287.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=t</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=t</string>
+  </dict>
+  </lib>
+</glyph>

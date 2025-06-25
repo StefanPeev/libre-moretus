@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0404" format="2">
+  <advance width="664"/>
+  <unicode hex="0404"/>
+  <outline>
+    <component base="uni042D" xScale="-1" xOffset="664"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w664</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -15 40</string>
+          <string>hstem 286.61 59.57</string>
+          <string>hstem 355.11 59.57</string>
+          <string>hstem 515 -21</string>
+          <string>hstem 675 40</string>
+          <string>vstem 40 123.28</string>
+          <string>vstem 437.39 27.91</string>
+          <string>vstem 580 44</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

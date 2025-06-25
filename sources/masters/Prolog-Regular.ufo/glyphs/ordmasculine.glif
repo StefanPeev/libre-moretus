@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="2">
+  <advance width="354"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <component base="o" xScale="0.62832" yScale="0.62832" xOffset="-3" yOffset="395"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w354</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 385.58 25.13</string>
+          <string>hstem 680.89 25.13</string>
+          <string>vstem 22.13 69.12</string>
+          <string>vstem 257.75 69.12</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

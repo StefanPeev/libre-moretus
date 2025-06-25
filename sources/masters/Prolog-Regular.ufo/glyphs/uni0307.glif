@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0307" format="2">
+  <unicode hex="0307"/>
+  <anchor x="0" y="580" name="_top"/>
+  <anchor x="0.000488281" y="668" name="_center"/>
+  <outline>
+    <component base="dotaccent" xOffset="-118"/>
+  </outline>
+  <guideline angle="90" x="-58" y="0"/>
+  <guideline angle="90" x="58.0005" y="0"/>
+  <guideline angle="0" x="0" y="726"/>
+  <guideline angle="0" x="0" y="610"/>
+  <guideline angle="0" x="0" y="668"/>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright" format="2">
+  <advance width="372"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="20" y="-137" type="curve"/>
+      <point x="61" y="-185" type="line"/>
+      <point x="230" y="-90"/>
+      <point x="332" y="64"/>
+      <point x="332" y="255" type="curve" smooth="yes"/>
+      <point x="332" y="446"/>
+      <point x="230" y="600"/>
+      <point x="61" y="695" type="curve"/>
+      <point x="20" y="647" type="line"/>
+      <point x="128" y="566"/>
+      <point x="222" y="432"/>
+      <point x="222" y="255" type="curve" smooth="yes"/>
+      <point x="222" y="78"/>
+      <point x="128" y="-56"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w372m20,-137l61,-185c230,-90 332,64 332,255c332,446 230,600 61,695l20,647c128,566 222,432 222,255c222,78 128,-56 20,-137</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 222 110</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

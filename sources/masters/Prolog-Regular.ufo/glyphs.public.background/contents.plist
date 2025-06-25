@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>A</key>
+  <string>A_.glif</string>
+  <key>AE</key>
+  <string>A_E_.glif</string>
+  <key>C</key>
+  <string>C_.glif</string>
+  <key>E</key>
+  <string>E_.glif</string>
+  <key>I</key>
+  <string>I_.glif</string>
+  <key>L</key>
+  <string>L_.glif</string>
+  <key>N</key>
+  <string>N_.glif</string>
+  <key>O</key>
+  <string>O_.glif</string>
+  <key>P</key>
+  <string>P_.glif</string>
+  <key>U</key>
+  <string>U_.glif</string>
+  <key>agrave</key>
+  <string>agrave.glif</string>
+  <key>dotlessi</key>
+  <string>dotlessi.glif</string>
+  <key>space</key>
+  <string>space.glif</string>
+  <key>uni0413</key>
+  <string>uni0413.glif</string>
+  <key>uni041F</key>
+  <string>uni041F_.glif</string>
+  <key>uni0422</key>
+  <string>uni0422.glif</string>
+  <key>uni0433</key>
+  <string>uni0433.glif</string>
+  <key>uni0434</key>
+  <string>uni0434.glif</string>
+  <key>uni0437.loclBGR</key>
+  <string>uni0437.loclB_G_R_.glif</string>
+  <key>uni043B</key>
+  <string>uni043B_.glif</string>
+  <key>uni043E</key>
+  <string>uni043E_.glif</string>
+  <key>uni0440</key>
+  <string>uni0440.glif</string>
+  <key>uni0441</key>
+  <string>uni0441.glif</string>
+</dict>
+</plist>
