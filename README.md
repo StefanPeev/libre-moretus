@@ -17,9 +17,9 @@ Libre Moretus is a revival of the Plantin typeface, as designed by Frank Hinman 
 
 - **Typeface Name**: Prolog
 - **Category**: Old-style
-- **Number of Glyphs**: 838
+- **Number of Glyphs**: 783
 - **Included Styles**: Regular
-- **Latest Release**: 1.004
+- **Latest Release**: 1.014
 
 ## Resources
 * [About Libre Moretus](docs/ABOUT.md)
