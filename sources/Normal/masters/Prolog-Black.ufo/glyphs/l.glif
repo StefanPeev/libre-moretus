@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="2">
+  <advance width="350"/>
+  <unicode hex="006C"/>
+  <anchor x="120" y="810" name="top"/>
+  <anchor x="130" y="-60" name="bottom"/>
+  <anchor x="320" y="380" name="center"/>
+  <outline>
+    <contour>
+      <point x="80" y="110" type="line" name=".sk1"/>
+      <point x="80" y="70"/>
+      <point x="60" y="50"/>
+      <point x="10" y="40" type="curve"/>
+      <point x="10" y="0" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="340" y="40" type="line"/>
+      <point x="290" y="50"/>
+      <point x="270" y="70"/>
+      <point x="270" y="110" type="curve"/>
+      <point x="270" y="537" type="line" name=".sk2"/>
+      <point x="270" y="740" type="line"/>
+      <point x="240" y="750" type="line"/>
+      <point x="20" y="690" type="line"/>
+      <point x="20" y="650" type="line"/>
+      <point x="80" y="617" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="120" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=10</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w350m80,110c80,70 60,50 10,40l10,0l340,0l340,40c290,50 270,70 270,110l270,537l270,740l240,750l20,690l20,650l80,617</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 30</string>
+          <string>hstem 730 20</string>
+          <string>vstem 80 100</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

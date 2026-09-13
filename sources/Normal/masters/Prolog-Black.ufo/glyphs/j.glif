@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="2">
+  <advance width="345"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="165" y="545" type="curve" smooth="yes"/>
+      <point x="232.692" y="545"/>
+      <point x="275" y="595.769"/>
+      <point x="275" y="655" type="curve" smooth="yes"/>
+      <point x="275" y="714.231"/>
+      <point x="232.692" y="765"/>
+      <point x="165" y="765" type="curve" smooth="yes"/>
+      <point x="97.3077" y="765"/>
+      <point x="55" y="714.231"/>
+      <point x="55" y="655" type="curve" smooth="yes"/>
+      <point x="55" y="595.769"/>
+      <point x="97.3077" y="545"/>
+    </contour>
+    <contour>
+      <point x="275" y="100" type="line"/>
+      <point x="85" y="100" type="line"/>
+      <point x="85" y="75" type="line" smooth="yes"/>
+      <point x="85" y="-5"/>
+      <point x="80" y="-75"/>
+      <point x="10" y="-165" type="curve"/>
+      <point x="30" y="-185" type="line"/>
+      <point x="188.065" y="-115"/>
+      <point x="275" y="-50"/>
+      <point x="275" y="30" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="85" y="90" type="line" name=".sk1"/>
+      <point x="275" y="90" type="line"/>
+      <point x="275" y="490" type="line"/>
+      <point x="245" y="500" type="line"/>
+      <point x="25" y="450" type="line"/>
+      <point x="25" y="430" type="line"/>
+      <point x="85" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni0237</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni0237</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1f9c4bd4b95aed305af64a60313e14cc25a64e83a70d69dc3f70aec133e75454dbd43afbe206b01e02dccfdfa9b17effddaf168b5020d4a69accfb42344f577f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 635 130</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

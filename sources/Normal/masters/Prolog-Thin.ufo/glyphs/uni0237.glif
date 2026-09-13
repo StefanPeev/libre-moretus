@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0237" format="2">
+  <advance width="190"/>
+  <unicode hex="0237"/>
+  <anchor x="125" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="120" y="90" type="line"/>
+      <point x="100" y="90" type="line"/>
+      <point x="100" y="75" type="line" smooth="yes"/>
+      <point x="100" y="-41.9459"/>
+      <point x="83.4811" y="-94.8064"/>
+      <point x="25" y="-165" type="curve"/>
+      <point x="32.3509" y="-172.351" type="line"/>
+      <point x="96.8438" y="-107.576"/>
+      <point x="120" y="-54.1166"/>
+      <point x="120" y="30" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="100" y="90" type="line" name=".sk1"/>
+      <point x="120" y="90" type="line"/>
+      <point x="120" y="490" type="line"/>
+      <point x="116" y="493" type="line"/>
+      <point x="40" y="480" type="line"/>
+      <point x="40" y="470" type="line"/>
+      <point x="100" y="450" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="125" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>j%</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d5cbab11a24e851111cdfd601106d112d97e13ed524eb4e8aba3bbbe7afa708cf06a37ff19083b08f8d61fe8e01826c2759af60acf0be7cfdb40642e9a79781b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 635 130</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

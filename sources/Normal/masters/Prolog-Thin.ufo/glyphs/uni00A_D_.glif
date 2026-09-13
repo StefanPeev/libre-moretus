@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00AD" format="2">
+  <advance width="360"/>
+  <unicode hex="00AD"/>
+  <outline>
+    <contour>
+      <point x="40" y="280" type="line"/>
+      <point x="320" y="280" type="line"/>
+      <point x="320" y="350" type="line"/>
+      <point x="40" y="350" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w360m40,280l320,280l320,350l40,350</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 280 70</string>
+          <string>vstem 40 280</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

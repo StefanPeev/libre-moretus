@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0457" format="2">
+  <advance width="300"/>
+  <unicode hex="0457"/>
+  <outline>
+    <component base="dieresis" xOffset="-63.0996" yOffset="-14.7002"/>
+    <component base="dotlessi" xOffset="70"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w300</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 25</string>
+          <string>hstem 560 116.6</string>
+          <string>vstem -2.9 116.6</string>
+          <string>vstem 100 100</string>
+          <string>vstem 186.3 116.6</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

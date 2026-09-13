@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b" format="2">
+  <advance width="710"/>
+  <unicode hex="0062"/>
+  <outline>
+    <contour>
+      <point x="260" y="750" type="line"/>
+      <point x="217.927" y="750" type="line"/>
+      <point x="10" y="720" type="line"/>
+      <point x="10" y="695" type="line"/>
+      <point x="50" y="675" type="line" smooth="yes"/>
+      <point x="60" y="670"/>
+      <point x="70" y="665"/>
+      <point x="70" y="650" type="curve" smooth="yes"/>
+      <point x="70" y="0" type="line"/>
+      <point x="90" y="-10" type="line"/>
+      <point x="240" y="20" type="line"/>
+      <point x="260" y="140" type="line"/>
+    </contour>
+    <contour>
+      <point x="243.253" y="20" type="line"/>
+      <point x="287.59" y="-5"/>
+      <point x="343.012" y="-20"/>
+      <point x="409.518" y="-20" type="curve" smooth="yes"/>
+      <point x="575.783" y="-20"/>
+      <point x="670" y="110"/>
+      <point x="670" y="250" type="curve" smooth="yes"/>
+      <point x="670" y="380"/>
+      <point x="608.571" y="500"/>
+      <point x="441.039" y="500" type="curve" smooth="yes"/>
+      <point x="357.273" y="500"/>
+      <point x="307.013" y="460"/>
+      <point x="273.506" y="420" type="curve"/>
+      <point x="240" y="420" type="line"/>
+      <point x="240" y="290.439" type="line"/>
+      <point x="260" y="290" type="line"/>
+      <point x="260" y="380.75"/>
+      <point x="292.447" y="430"/>
+      <point x="352.235" y="430" type="curve" smooth="yes"/>
+      <point x="432.941" y="430"/>
+      <point x="470" y="340"/>
+      <point x="470" y="240" type="curve" smooth="yes"/>
+      <point x="470" y="60"/>
+      <point x="408.235" y="25"/>
+      <point x="350.588" y="25" type="curve" smooth="yes"/>
+      <point x="276.471" y="25"/>
+      <point x="260" y="90"/>
+      <point x="260" y="140" type="curve"/>
+      <point x="210" y="140" type="line"/>
+      <point x="210" y="20.0264" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=l</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>20105e95a3e5da2a059688b62ee29c9cfa3266d750a641b742e8245904704ce7d5d2281d7efa4193e9160f85788a45a65ae9037d3aaad7a51b328ea5a639113c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 45</string>
+          <string>hstem 11 -21</string>
+          <string>hstem 430 70</string>
+          <string>hstem 730 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

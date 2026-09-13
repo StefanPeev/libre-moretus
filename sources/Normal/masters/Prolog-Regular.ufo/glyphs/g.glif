@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g" format="2">
+  <advance width="550"/>
+  <unicode hex="0067"/>
+  <anchor x="243" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="450" y="320" type="curve" smooth="yes"/>
+      <point x="450" y="423.649"/>
+      <point x="347.877" y="500"/>
+      <point x="250" y="500" type="curve" smooth="yes"/>
+      <point x="121" y="500"/>
+      <point x="50" y="429"/>
+      <point x="50" y="330" type="curve" smooth="yes"/>
+      <point x="50" y="207.819"/>
+      <point x="133.515" y="145"/>
+      <point x="250" y="145" type="curve" smooth="yes"/>
+      <point x="374" y="145"/>
+      <point x="450" y="216"/>
+    </contour>
+    <contour>
+      <point x="134.56" y="186.48" type="line"/>
+      <point x="110.055" y="164.146"/>
+      <point x="65" y="119.122"/>
+      <point x="65" y="90" type="curve" smooth="yes"/>
+      <point x="65" y="4.16898"/>
+      <point x="166.182" y="-20.64"/>
+      <point x="232.75" y="-20.64" type="curve" smooth="yes"/>
+      <point x="301.038" y="-20.64"/>
+      <point x="415" y="-26.8178"/>
+      <point x="415" y="-120" type="curve" smooth="yes"/>
+      <point x="415" y="-173"/>
+      <point x="380" y="-220"/>
+      <point x="290" y="-220" type="curve" smooth="yes"/>
+      <point x="195" y="-220"/>
+      <point x="115" y="-182"/>
+      <point x="115" y="-110" type="curve"/>
+      <point x="145" y="-35.5"/>
+      <point x="191.875" y="-27.375"/>
+      <point x="230.312" y="13.9375" type="curve"/>
+      <point x="152.907" y="-2.44874" type="line"/>
+      <point x="119.777" y="-23.3311"/>
+      <point x="30" y="-83.3033"/>
+      <point x="30" y="-120" type="curve" smooth="yes"/>
+      <point x="30" y="-233"/>
+      <point x="126" y="-260"/>
+      <point x="270" y="-260" type="curve" smooth="yes"/>
+      <point x="360" y="-260"/>
+      <point x="510" y="-210"/>
+      <point x="510" y="-70" type="curve" smooth="yes"/>
+      <point x="510" y="10"/>
+      <point x="430" y="65"/>
+      <point x="270" y="65" type="curve" smooth="yes"/>
+      <point x="170" y="65"/>
+      <point x="140" y="100"/>
+      <point x="140" y="120" type="curve" smooth="yes"/>
+      <point x="140" y="135.304"/>
+      <point x="150.409" y="150.608"/>
+      <point x="175.476" y="178.656" type="curve"/>
+    </contour>
+    <contour>
+      <point x="250" y="180" type="curve" smooth="yes"/>
+      <point x="201" y="180"/>
+      <point x="155" y="229"/>
+      <point x="155" y="330" type="curve" smooth="yes"/>
+      <point x="155" y="385"/>
+      <point x="171" y="465"/>
+      <point x="250" y="465" type="curve" smooth="yes"/>
+      <point x="301" y="465"/>
+      <point x="345" y="421"/>
+      <point x="345" y="320" type="curve" smooth="yes"/>
+      <point x="345" y="264"/>
+      <point x="326" y="180"/>
+    </contour>
+    <contour>
+      <point x="540" y="480" type="line"/>
+      <point x="373.293" y="459.162" type="line"/>
+      <point x="373.293" y="423" type="line"/>
+      <point x="402.656" y="423" type="line"/>
+      <point x="510" y="395" type="line"/>
+      <point x="540" y="405" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>317be5b17c56abd07a75e5a8796892683490d45658b386d166ccff9a79387231531997e63723dc397ee5c73fb5ec28fc1d35de3d8983fba0787c8c5084806492</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -260 40</string>
+          <string>hstem -20 85</string>
+          <string>hstem 145 35</string>
+          <string>hstem 395 85</string>
+          <string>hstem 465 35</string>
+          <string>vstem 30 85</string>
+          <string>vstem 50 105</string>
+          <string>vstem 65 75</string>
+          <string>vstem 345 105</string>
+          <string>vstem 415 95</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

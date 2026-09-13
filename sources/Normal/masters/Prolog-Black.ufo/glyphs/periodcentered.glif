@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="2">
+  <advance width="273"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="137" y="250" type="curve" smooth="yes"/>
+      <point x="178" y="250"/>
+      <point x="213" y="282.5"/>
+      <point x="213" y="327" type="curve" smooth="yes"/>
+      <point x="213" y="372"/>
+      <point x="177.5" y="403"/>
+      <point x="137" y="403" type="curve" smooth="yes"/>
+      <point x="97" y="403"/>
+      <point x="60" y="372.5"/>
+      <point x="60" y="327" type="curve" smooth="yes"/>
+      <point x="60" y="282"/>
+      <point x="97" y="250"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w273m137,250c178,250 213,282.5 213,327c213,372 177.5,403 137,403c97,403 60,372.5 60,327c60,282 97,250 137,250</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 250 153</string>
+          <string>vstem 60 153</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

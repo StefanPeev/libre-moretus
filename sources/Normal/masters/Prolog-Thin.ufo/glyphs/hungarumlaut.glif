@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="460"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <component base="acute"/>
+    <component base="acute" xOffset="160"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=acute</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=230</string>
+  <key>com.fontlab.recipe</key>
+  <string>=acute+acute@220,580</string>
+  </dict>
+  </lib>
+</glyph>

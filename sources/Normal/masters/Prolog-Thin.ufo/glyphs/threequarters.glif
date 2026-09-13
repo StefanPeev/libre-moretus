@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="2">
+  <advance width="871"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component base="threesuperior" xOffset="29.575"/>
+    <component base="four" xScale="0.55" yScale="0.55" xOffset="511.15"/>
+    <contour>
+      <point x="241.575" y="-22" type="line"/>
+      <point x="702.575" y="706" type="line"/>
+      <point x="651.575" y="706" type="line"/>
+      <point x="190.575" y="-22" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w871m241.58,-22l702.58,706l651.58,706l190.58,-22</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 19.8</string>
+          <string>hstem 102.85 26.95</string>
+          <string>hstem 295.75 23.65</string>
+          <string>hstem 374 11</string>
+          <string>hstem 505.85 29.15</string>
+          <string>hstem 649.4 39.6</string>
+          <string>hstem 686 20</string>
+          <string>vstem 247.45 60.5</string>
+          <string>vstem 273.85 60.5</string>
+          <string>vstem 683.85 60.5</string>
+          <string>vstem 782.3 18.7</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

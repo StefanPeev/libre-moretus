@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.LC_n_left_outside" format="2">
+  <advance width="210"/>
+  <anchor x="140" y="0" name="origin"/>
+  <anchor x="140" y="80" name="left"/>
+  <anchor x="140" y="0" name="right"/>
+  <outline>
+    <contour>
+      <point x="140" y="80" type="move"/>
+      <point x="140" y="40"/>
+      <point x="120" y="20"/>
+      <point x="70" y="10" type="curve"/>
+      <point x="70" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="70" y="0"/>
+  <guideline angle="90" x="140" y="0"/>
+  <guideline angle="0" x="0" y="80"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=70</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=70</string>
+  </dict>
+  </lib>
+</glyph>

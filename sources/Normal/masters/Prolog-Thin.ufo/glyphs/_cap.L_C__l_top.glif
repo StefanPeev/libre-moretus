@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_cap.LC_l_top" format="2">
+  <advance width="220"/>
+  <anchor x="150" y="609" name="node1"/>
+  <anchor x="130" y="689" name="node2"/>
+  <outline>
+    <contour>
+      <point x="150" y="609" type="move"/>
+      <point x="150" y="746" type="line"/>
+      <point x="140" y="750" type="line"/>
+      <point x="70" y="729" type="line"/>
+      <point x="70" y="719" type="line"/>
+      <point x="130" y="689" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="70" y="0"/>
+  <guideline angle="90" x="150" y="0"/>
+  <guideline angle="0" x="0" y="80"/>
+  <guideline angle="0" x="0" y="10"/>
+  <guideline angle="90" x="130" y="0"/>
+  <guideline angle="90" x="140" y="0"/>
+  <guideline angle="0" x="0" y="689"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=70</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=70</string>
+  </dict>
+  </lib>
+</glyph>

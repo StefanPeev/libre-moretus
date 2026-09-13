@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01DD" format="2">
+  <advance width="455"/>
+  <unicode hex="01DD"/>
+  <anchor x="240" y="-100" name="top"/>
+  <anchor x="110" y="480" name="b.ogonek"/>
+  <outline>
+    <component base="e" xScale="-1" yScale="-1" xOffset="475" yOffset="480"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=e@~,~</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

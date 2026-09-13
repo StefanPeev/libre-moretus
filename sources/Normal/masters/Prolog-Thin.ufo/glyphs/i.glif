@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="2">
+  <advance width="300"/>
+  <unicode hex="0069"/>
+  <outline>
+    <component base="dotlessi" xOffset="40"/>
+    <contour>
+      <point x="139" y="667.5" type="curve" smooth="yes"/>
+      <point x="159" y="667.5"/>
+      <point x="171.5" y="682.5"/>
+      <point x="171.5" y="700" type="curve" smooth="yes"/>
+      <point x="171.5" y="717.5"/>
+      <point x="159" y="732.5"/>
+      <point x="139" y="732.5" type="curve" smooth="yes"/>
+      <point x="119" y="732.5"/>
+      <point x="106.5" y="717.5"/>
+      <point x="106.5" y="700" type="curve" smooth="yes"/>
+      <point x="106.5" y="682.5"/>
+      <point x="119" y="667.5"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="150" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=70</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=70</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>637be6f2d674f8bf8c4a9eef5c7152bed4fa3588d66fbb77c77a0d8f87cdc57acd47fc19ae03c8f82a062642854e0d539b4620277d7c6510a0f21166bd711384</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 25</string>
+          <string>hstem 635 130</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

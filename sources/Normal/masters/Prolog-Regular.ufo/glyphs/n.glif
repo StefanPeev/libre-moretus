@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="2">
+  <advance width="590"/>
+  <unicode hex="006E"/>
+  <anchor x="307" y="-60" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="100.103" y="100" type="line" name=".sk1"/>
+      <point x="100.103" y="60"/>
+      <point x="80.1031" y="40"/>
+      <point x="30.1031" y="30" type="curve"/>
+      <point x="30.1031" y="0" type="line"/>
+      <point x="100.103" y="0" type="line"/>
+      <point x="200.103" y="0" type="line" name=".sk2"/>
+      <point x="270" y="0" type="line"/>
+      <point x="270" y="30" type="line"/>
+      <point x="220" y="40"/>
+      <point x="200" y="60"/>
+      <point x="200" y="100" type="curve"/>
+      <point x="200" y="320" type="line" smooth="yes"/>
+      <point x="200" y="390"/>
+      <point x="245" y="435"/>
+      <point x="302" y="435" type="curve" smooth="yes"/>
+      <point x="367" y="435"/>
+      <point x="410" y="390"/>
+      <point x="410" y="320" type="curve" smooth="yes"/>
+      <point x="410" y="100" type="line" name=".sk3"/>
+      <point x="410" y="60"/>
+      <point x="390" y="40"/>
+      <point x="340" y="30" type="curve"/>
+      <point x="340" y="0" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="510" y="0" type="line" name=".sk4"/>
+      <point x="580" y="0" type="line"/>
+      <point x="580" y="30" type="line"/>
+      <point x="530" y="40"/>
+      <point x="510" y="60"/>
+      <point x="510" y="100" type="curve"/>
+      <point x="510" y="330" type="line" smooth="yes"/>
+      <point x="510" y="425"/>
+      <point x="465" y="495"/>
+      <point x="342" y="495" type="curve" smooth="yes"/>
+      <point x="266.299" y="495"/>
+      <point x="197.746" y="457.88"/>
+      <point x="151.538" y="391.867" type="curve"/>
+      <point x="199.965" y="319.053" type="line" name=".sk5"/>
+      <point x="200" y="479" type="line"/>
+      <point x="170" y="489" type="line"/>
+      <point x="40" y="449" type="line"/>
+      <point x="40" y="429" type="line"/>
+      <point x="100" y="399" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="100" y="0"/>
+  <guideline angle="90" x="200" y="0"/>
+  <guideline angle="90" x="410" y="0"/>
+  <guideline angle="90" x="510" y="0"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>89d56c4d95d10fee81c318f2a6658325905bbd1cdd1fd321b8452a0d2dddbc5d8f3c45a0b2a99da88122db7fa30bde0cdd8c8c3a43aa106078575322d002372e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 30</string>
+          <string>hstem 435 60</string>
+          <string>vstem 410 100</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

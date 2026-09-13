@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_cap.LC_l_top" format="2">
+  <advance width="270"/>
+  <outline>
+    <contour>
+      <point x="260" y="537" type="move"/>
+      <point x="260" y="740" type="line"/>
+      <point x="230" y="750" type="line"/>
+      <point x="10" y="690" type="line"/>
+      <point x="10" y="650" type="line"/>
+      <point x="70" y="617" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=10</string>
+  </dict>
+  </lib>
+</glyph>

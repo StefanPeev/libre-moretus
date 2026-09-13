@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threesuperior" format="2">
+  <advance width="345"/>
+  <unicode hex="00B3"/>
+  <outline>
+    <component base="three" xScale="0.55" yScale="0.55" xOffset="18.2246" yOffset="304"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w345</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 295.75 23.65</string>
+          <string>hstem 505.85 29.15</string>
+          <string>hstem 649.4 39.6</string>
+          <string>vstem 217.88 60.5</string>
+          <string>vstem 244.27 60.5</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

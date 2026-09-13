@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="2">
+  <advance width="410"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <component base="circumflex" yScale="-1" yOffset="1330"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  </dict>
+  </lib>
+</glyph>

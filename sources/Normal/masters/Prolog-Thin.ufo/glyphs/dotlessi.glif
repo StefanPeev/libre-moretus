@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="2">
+  <advance width="220"/>
+  <unicode hex="0131"/>
+  <anchor x="100" y="580" name="top"/>
+  <anchor x="210" y="0" name="b.ogonek"/>
+  <outline>
+    <contour>
+      <point x="100" y="80" type="line" name=".sk1"/>
+      <point x="100" y="40"/>
+      <point x="80" y="20"/>
+      <point x="30" y="10" type="curve"/>
+      <point x="30" y="0" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="190" y="10" type="line"/>
+      <point x="140" y="20"/>
+      <point x="120" y="40"/>
+      <point x="120" y="80" type="curve"/>
+      <point x="120" y="490" type="line"/>
+      <point x="116" y="493" type="line"/>
+      <point x="40" y="480" type="line"/>
+      <point x="40" y="470" type="line"/>
+      <point x="100" y="450" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="100" y="0"/>
+  <guideline angle="90" x="60" y="0"/>
+  <guideline angle="90" x="160" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w220m100,80c100,40 80,20 30,10l30,0l190,0l190,10c140,20 120,40 120,80l120,490l116,493l40,480l40,470l100,450</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 25</string>
+          <string>vstem 60 100</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

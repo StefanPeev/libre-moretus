@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="2">
+  <advance width="385"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <component base="question" xScale="-1" yScale="-1" xOffset="384" yOffset="499"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w385</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -251 80</string>
+          <string>hstem 380 139</string>
+          <string>vstem 30 63</string>
+          <string>vstem 185 139</string>
+          <string>vstem 236 40</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
