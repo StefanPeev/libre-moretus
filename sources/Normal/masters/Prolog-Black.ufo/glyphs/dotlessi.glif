@@ -2,6 +2,8 @@
 <glyph name="dotlessi" format="2">
   <advance width="350"/>
   <unicode hex="0131"/>
+  <anchor x="120" y="580" name="top"/>
+  <anchor x="230" y="0" name="b.ogonek"/>
   <outline>
     <contour>
       <point x="80" y="110" type="line" name=".sk1"/>
@@ -21,6 +23,7 @@
       <point x="80" y="400" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="120" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -32,7 +35,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w350m80,110c80,70 60,50 10,40l10,0l340,0l340,40c290,50 270,70 270,110l270,490l240,500l20,450l20,430l80,400</string>
+    <string>w350m100,110c100,70 80,50 30,40l30,0l360,0l360,40c310,50 290,70 290,110l290,490l260,500l40,450l40,430l100,400</string>
     <key>hintSetList</key>
     <array>
       <dict>

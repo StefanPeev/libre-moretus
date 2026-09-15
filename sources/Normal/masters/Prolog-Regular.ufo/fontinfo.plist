@@ -30,11 +30,11 @@
     <key>color</key>
     <string>1,0,0,1</string>
     <key>name</key>
-    <string>f1</string>
+    <string>f2</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>-50</integer>
+    <integer>545</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -42,11 +42,11 @@
     <key>color</key>
     <string>1,0,0,1</string>
     <key>name</key>
-    <string>f2</string>
+    <string>f1</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>545</integer>
+    <integer>-50</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -85,7 +85,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.020</string>
+  <string>Version 1.021</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -237,7 +237,7 @@
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>20</integer>
+  <integer>21</integer>
   <key>xHeight</key>
   <integer>480</integer>
 </dict>

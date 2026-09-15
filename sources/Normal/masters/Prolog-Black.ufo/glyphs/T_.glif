@@ -32,7 +32,7 @@
       <point x="290.001" y="554.731" type="line"/>
     </contour>
     <contour>
-      <point x="488" y="92" type="curve"/>
+      <point x="488" y="92" type="curve" name=".sk4"/>
       <point x="488" y="700" type="line" name=".sk2"/>
       <point x="290" y="700" type="line" name=".sk3"/>
       <point x="290" y="92" type="line" name=".sk1"/>
@@ -63,7 +63,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e41b5d4a84c5ec26e66ede8ac425d543d94a10df015eb83403ca767c8c413c49736a8c033a37d57dd39c18ff81511078aa41f6d1c5e93966bc7b95999ede5d3c</string>
+    <string>fbe98c1c9e2bd7fb518af070ffa4e78e38343a4bd09bf8c77edf754d2f3af358f96fd36d75ef2ca51f6cfe9789ef5469b42cdc87d86a296103715ececaaee33c</string>
     <key>hintSetList</key>
     <array>
       <dict>

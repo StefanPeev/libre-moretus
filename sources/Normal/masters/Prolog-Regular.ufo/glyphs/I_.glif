@@ -6,7 +6,7 @@
   <anchor x="330" y="0" name="b.ogonek"/>
   <outline>
     <contour>
-      <point x="240" y="90" type="curve"/>
+      <point x="240" y="90" type="curve" name=".sk4"/>
       <point x="240" y="610" type="line" name=".sk2"/>
       <point x="240" y="639"/>
       <point x="242.239" y="659.522"/>

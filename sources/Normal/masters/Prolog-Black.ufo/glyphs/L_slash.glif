@@ -25,4 +25,6 @@
       <point x="425" y="412.295" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="40" y="0"/>
+  <guideline angle="90" x="425" y="0"/>
 </glyph>

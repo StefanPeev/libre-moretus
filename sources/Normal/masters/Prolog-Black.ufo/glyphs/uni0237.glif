@@ -2,6 +2,7 @@
 <glyph name="uni0237" format="2">
   <advance width="345"/>
   <unicode hex="0237"/>
+  <anchor x="125" y="580" name="top"/>
   <outline>
     <contour>
       <point x="275" y="100" type="line"/>
@@ -25,6 +26,7 @@
       <point x="85" y="400" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="125" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
@@ -34,7 +36,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>15139b6bbc14d4b532ccac281d01e539a730ac6acc8550e9fdbf97424fc5f77d8ceb1d07f53e936aae395e4114151379b8c4e8d6c73f365c2b8de77cf6ea7146</string>
+    <string>9998fa576a70b6378a7985d7d9b3da2206bf6001f28ab600a3f8f824cd0546645282b2f73bc82097f5ce37c75649e46e6450d433b1617e06b052dcef029b3813</string>
     <key>hintSetList</key>
     <array>
       <dict>

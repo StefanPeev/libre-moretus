@@ -1,55 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="2">
-  <advance width="1000"/>
+  <advance width="1004"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
+      <point x="440" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="696.813" y="540" type="line" smooth="yes"/>
+      <point x="714.115" y="585.175"/>
+      <point x="760.732" y="618.366"/>
+      <point x="804" y="640" type="curve" smooth="yes"/>
+      <point x="864" y="670" type="line"/>
+      <point x="864" y="700" type="line"/>
+      <point x="679" y="700" type="line"/>
+      <point x="679" y="648.031" type="line"/>
+      <point x="491.592" y="166.009" type="line"/>
+      <point x="501.833" y="165.8" type="line"/>
+      <point x="320" y="700" type="line"/>
+      <point x="128" y="700" type="line"/>
       <point x="128" y="670" type="line"/>
-      <point x="180" y="650" type="line"/>
-      <point x="220" y="618" type="line"/>
-      <point x="147" y="116" type="line"/>
-      <point x="137.671" y="84.6627"/>
-      <point x="119.138" y="62.5284"/>
-      <point x="91" y="50" type="curve"/>
-      <point x="40" y="30" type="line"/>
+      <point x="180" y="650" type="line" smooth="yes"/>
+      <point x="195.778" y="643.932"/>
+      <point x="214.331" y="633.925"/>
+      <point x="220" y="618" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="657" y="0" type="line"/>
+      <point x="964" y="0" type="line"/>
+      <point x="964" y="30" type="line"/>
+      <point x="882" y="50" type="line" smooth="yes"/>
+      <point x="864.852" y="54.1825"/>
+      <point x="856.265" y="82.4948"/>
+      <point x="854" y="100" type="curve" smooth="yes"/>
+      <point x="780.658" y="666.737" type="line"/>
+      <point x="689.636" y="596.757" type="line"/>
+      <point x="750" y="90" type="line" smooth="yes"/>
+      <point x="751.452" y="77.8095"/>
+      <point x="748.495" y="64.3106"/>
+      <point x="737" y="60" type="curve" smooth="yes"/>
+      <point x="657" y="30" type="line"/>
+    </contour>
+    <contour>
       <point x="40" y="0" type="line"/>
       <point x="278" y="0" type="line"/>
       <point x="278" y="30" type="line"/>
-      <point x="236" y="50" type="line"/>
-      <point x="217.586" y="60.2531"/>
-      <point x="200.75" y="72.0829"/>
-      <point x="200" y="100" type="curve"/>
-      <point x="250" y="540" type="line"/>
-      <point x="440" y="0" type="line"/>
-      <point x="490" y="0" type="line"/>
-      <point x="696.813" y="540" type="line"/>
-      <point x="750" y="90" type="line"/>
-      <point x="728" y="60" type="line"/>
-      <point x="648" y="30" type="line"/>
-      <point x="648" y="0" type="line"/>
-      <point x="955" y="0" type="line"/>
-      <point x="955" y="30" type="line"/>
-      <point x="873" y="50" type="line"/>
-      <point x="854" y="100" type="line"/>
-      <point x="788" y="610" type="line"/>
-      <point x="804" y="640" type="line"/>
-      <point x="864" y="670" type="line"/>
-      <point x="864" y="700" type="line"/>
-      <point x="669" y="700" type="line"/>
-      <point x="669" y="625" type="line"/>
-      <point x="497" y="180" type="line"/>
-      <point x="320" y="700" type="line"/>
-      <point x="128" y="700" type="line"/>
+      <point x="236" y="50" type="line" smooth="yes"/>
+      <point x="216.972" y="59.0612"/>
+      <point x="196.847" y="72.2514"/>
+      <point x="200" y="100" type="curve" smooth="yes"/>
+      <point x="251.694" y="554.904" type="line"/>
+      <point x="222.159" y="632.844" type="line"/>
+      <point x="147" y="116" type="line" smooth="yes"/>
+      <point x="142.295" y="83.6438"/>
+      <point x="119.675" y="61.2452"/>
+      <point x="91" y="50" type="curve" smooth="yes"/>
+      <point x="40" y="30" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6442d9a3c5e3c21ae7e466123d0a963f41d0e80872ce5b4ed270ae6bf414912fc0716cae3d9ac18e179bd98b186530ac7d70bfb10e2d7a7981871355093b3b3a</string>
+    <string>e1f4bc8adf815af87d8c884bc56a273718a19399c0b9fbd5876815ffb5f0c4682b55cd758950239d1043b97a5d67c0eba78bb9c07a378eab28db8801ad318511</string>
     <key>hintSetList</key>
     <array>
       <dict>

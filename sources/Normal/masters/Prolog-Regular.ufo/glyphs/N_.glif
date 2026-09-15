@@ -6,54 +6,68 @@
   <anchor x="437" y="-60" name="bottom"/>
   <outline>
     <contour>
-      <point x="310" y="30" type="line"/>
-      <point x="230" y="50" type="line" smooth="yes"/>
-      <point x="210" y="55"/>
-      <point x="200" y="70"/>
-      <point x="200" y="90" type="curve" smooth="yes"/>
-      <point x="200" y="527.234" type="line"/>
       <point x="620" y="0" type="line"/>
       <point x="680" y="0" type="line"/>
       <point x="673" y="30"/>
       <point x="670" y="66"/>
-      <point x="670" y="110" type="curve" smooth="yes"/>
-      <point x="670" y="610" type="line" smooth="yes"/>
+      <point x="670" y="110" type="curve"/>
+      <point x="200" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+      <point x="40" y="670" type="line"/>
+      <point x="77.3514" y="650.39" type="line" smooth="yes"/>
+      <point x="99.7444" y="638.634"/>
+      <point x="137.292" y="603.444"/>
+      <point x="150" y="588" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="150" y="90" type="line" name=".sk1"/>
+      <point x="150" y="61"/>
+      <point x="146.802" y="40.2538"/>
+      <point x="120" y="34" type="curve" smooth="yes"/>
+      <point x="60" y="20" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="200" y="0" type="line" name=".sk2"/>
+      <point x="284" y="0" type="line"/>
+      <point x="284" y="20" type="line"/>
+      <point x="224" y="34" type="line" smooth="yes"/>
+      <point x="203.081" y="38.8812"/>
+      <point x="200" y="61"/>
+      <point x="200" y="90" type="curve"/>
+      <point x="200" y="657.617" type="line"/>
+      <point x="150" y="657.617" type="line"/>
+    </contour>
+    <contour>
+      <point x="670" y="39.6592" type="line"/>
+      <point x="670" y="610" type="line" name=".sk3"/>
       <point x="670" y="630"/>
       <point x="680" y="645"/>
       <point x="700" y="650" type="curve" smooth="yes"/>
       <point x="780" y="670" type="line"/>
       <point x="780" y="700" type="line"/>
-      <point x="510" y="700" type="line"/>
-      <point x="510" y="670" type="line"/>
-      <point x="590" y="650" type="line" smooth="yes"/>
-      <point x="610" y="645"/>
-      <point x="620" y="630"/>
-      <point x="620" y="610" type="curve" smooth="yes"/>
-      <point x="620" y="172.766" type="line"/>
-      <point x="200" y="700" type="line"/>
-      <point x="40" y="700" type="line"/>
-      <point x="40" y="670" type="line"/>
-      <point x="120" y="628" type="line" smooth="yes"/>
-      <point x="137.252" y="618.943"/>
-      <point x="150" y="608"/>
-      <point x="150" y="588" type="curve" smooth="yes"/>
-      <point x="150" y="90" type="line" smooth="yes"/>
-      <point x="150" y="70"/>
-      <point x="140" y="55"/>
-      <point x="120" y="50" type="curve" smooth="yes"/>
-      <point x="40" y="30" type="line"/>
-      <point x="40" y="0" type="line"/>
-      <point x="310" y="0" type="line"/>
+      <point x="615" y="700" type="line"/>
+      <point x="675" y="700" type="line" name=".sk4"/>
+      <point x="530" y="700" type="line"/>
+      <point x="530" y="680" type="line"/>
+      <point x="590" y="666" type="line" smooth="yes"/>
+      <point x="617.761" y="659.522"/>
+      <point x="620" y="639"/>
+      <point x="620" y="610" type="curve"/>
+      <point x="620" y="39.6592" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>59aab34203f394add42a11a220e9e22e68ad9139f65e6760a5ec211acf243a4a2a28640b49b6fdada53341d438cca270d0f126f8aa14000a5950040b44ff434e</string>
+    <string>69505012075725544f326bad6707015a978047286deabc77bb57c16f19fd966f31d8e4ab143cb41e08b556599934e81c3cd31995e2fa099bd85fa23e20b48e58</string>
     <key>hintSetList</key>
     <array>
       <dict>

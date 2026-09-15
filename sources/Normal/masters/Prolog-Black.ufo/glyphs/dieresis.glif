@@ -32,6 +32,7 @@
       <point x="149.399" y="726.3"/>
     </contour>
   </outline>
+  <guideline angle="90" x="212" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -43,7 +44,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>1863b72bf1c059756c3d6967ebde0911174183993bfe628b2e8e3a728b30afefd51ceb975357852f2ba22dea8244de9bd533fbf429106dfb59c19055c3bb8a40</string>
+    <string>392862982de16ceed0779ccc69da620a268e2365dcbd6a5c597a6c9a8c102bdfeb1a49daf9d30c97053bceb06b47fabc7f1aa0fe759e4fddc7b76430a1d62b61</string>
     <key>hintSetList</key>
     <array>
       <dict>

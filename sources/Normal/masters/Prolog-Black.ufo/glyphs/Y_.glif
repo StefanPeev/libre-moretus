@@ -1,59 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Y" format="2">
-  <advance width="765"/>
+  <advance width="747"/>
   <unicode hex="0059"/>
-  <anchor x="410" y="810" name="top"/>
+  <anchor x="396" y="810" name="top"/>
   <outline>
     <contour>
-      <point x="320" y="700" type="line"/>
-      <point x="40" y="700" type="line"/>
-      <point x="40" y="670" type="line"/>
-      <point x="80" y="650" type="line" smooth="yes"/>
-      <point x="105.646" y="637.177"/>
-      <point x="120.857" y="628"/>
-      <point x="135" y="610" type="curve"/>
-      <point x="341" y="294.076" type="line"/>
-      <point x="341" y="90" type="line" smooth="yes"/>
-      <point x="341" y="70"/>
-      <point x="331" y="55"/>
-      <point x="311" y="50" type="curve" smooth="yes"/>
-      <point x="231" y="30" type="line"/>
-      <point x="231" y="0" type="line"/>
-      <point x="561" y="0" type="line"/>
-      <point x="561" y="30" type="line"/>
-      <point x="481" y="50" type="line" smooth="yes"/>
-      <point x="461" y="55"/>
-      <point x="451" y="70"/>
-      <point x="451" y="90" type="curve" smooth="yes"/>
-      <point x="451" y="304.415" type="line"/>
-      <point x="621" y="593" type="line" smooth="yes"/>
-      <point x="634.615" y="615"/>
-      <point x="649.437" y="636.417"/>
-      <point x="680" y="650" type="curve" smooth="yes"/>
-      <point x="725" y="670" type="line"/>
-      <point x="725" y="700" type="line"/>
-      <point x="510" y="700" type="line"/>
-      <point x="510" y="670" type="line"/>
-      <point x="560" y="650" type="line" smooth="yes"/>
-      <point x="573.448" y="644.621"/>
-      <point x="576" y="626"/>
-      <point x="568" y="610" type="curve"/>
-      <point x="430" y="364" type="line"/>
-      <point x="282" y="610" type="line" smooth="yes"/>
-      <point x="274" y="624"/>
-      <point x="278.591" y="643.284"/>
-      <point x="289" y="650" type="curve" smooth="yes"/>
-      <point x="320" y="670" type="line"/>
+      <point x="306" y="700" type="line"/>
+      <point x="6" y="700" type="line"/>
+      <point x="6" y="670" type="line"/>
+      <point x="51" y="650" type="line" smooth="yes"/>
+      <point x="77.2015" y="638.355"/>
+      <point x="89.0148" y="629.503"/>
+      <point x="101" y="610" type="curve" smooth="yes"/>
+      <point x="346.591" y="210.354" type="line"/>
+      <point x="426.591" y="210.354" type="line"/>
+      <point x="637" y="593" type="line" smooth="yes"/>
+      <point x="649.466" y="615.671"/>
+      <point x="665.437" y="636.417"/>
+      <point x="696" y="650" type="curve" smooth="yes"/>
+      <point x="741" y="670" type="line"/>
+      <point x="741" y="700" type="line"/>
+      <point x="496" y="700" type="line"/>
+      <point x="496" y="670" type="line"/>
+      <point x="546" y="650" type="line" smooth="yes"/>
+      <point x="559.448" y="644.621"/>
+      <point x="562.752" y="625.601"/>
+      <point x="554" y="610" type="curve" smooth="yes"/>
+      <point x="408.661" y="350.918" type="line"/>
+      <point x="423.733" y="351.147" type="line"/>
+      <point x="268" y="610" type="line" smooth="yes"/>
+      <point x="260" y="624"/>
+      <point x="264.591" y="643.284"/>
+      <point x="275" y="650" type="curve" smooth="yes"/>
+      <point x="306" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="314.245" type="line"/>
+      <point x="283" y="92" type="line" name=".sk1"/>
+      <point x="283" y="72"/>
+      <point x="273" y="57"/>
+      <point x="253" y="52" type="curve" smooth="yes"/>
+      <point x="173" y="32" type="line"/>
+      <point x="173" y="0" type="line"/>
+      <point x="591" y="0" type="line"/>
+      <point x="591" y="32" type="line"/>
+      <point x="511" y="52" type="line" smooth="yes"/>
+      <point x="491" y="57"/>
+      <point x="481" y="72"/>
+      <point x="481" y="92" type="curve"/>
+      <point x="481" y="314.245" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=V</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=V</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>466d17f54d79c663587038d56941c8af4d31da1d2a9c097da5d3a370ec6a074edd10843413834cc2eb274ee21a84c1e050d10903d06ae4f1c2e28baa0874ab20</string>
+    <string>d92fcb0fbe5c8bb074a8f47fa50007f2996a4237ba2f67fa36d0c226315bcf600ba9f40f51323b8e74c00fa80d4fbdcb16be29989cab602a4c4dad677184bb54</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -61,7 +70,7 @@
         <array>
           <string>hstem 0 30</string>
           <string>hstem 680 20</string>
-          <string>vstem 341 110</string>
+          <string>vstem 327 110</string>
         </array>
       </dict>
     </array>

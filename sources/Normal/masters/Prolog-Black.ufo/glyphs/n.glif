@@ -40,14 +40,15 @@
       <point x="640" y="433.076"/>
       <point x="573.465" y="495"/>
       <point x="462.714" y="495" type="curve" smooth="yes"/>
-      <point x="359.714" y="495"/>
-      <point x="284.002" y="436.745"/>
-      <point x="256.649" y="386.745" type="curve"/>
-      <point x="290" y="277.346" type="line" name=".sk5"/>
-      <point x="289.733" y="480.326" type="line"/>
-      <point x="259.736" y="490.272" type="line"/>
-      <point x="39.9372" y="429.886" type="line"/>
-      <point x="39.9898" y="389.89" type="line"/>
+      <point x="328.196" y="495"/>
+      <point x="262.857" y="433.262"/>
+      <point x="220.247" y="331.255" type="curve"/>
+      <point x="290" y="331.255" type="line"/>
+      <point x="290" y="357.346" type="line" name=".sk5"/>
+      <point x="289.776" y="480.346" type="line"/>
+      <point x="259.758" y="490.291" type="line"/>
+      <point x="39.867" y="429.891" type="line"/>
+      <point x="39.9399" y="389.891" type="line"/>
       <point x="100" y="357" type="line"/>
     </contour>
   </outline>
@@ -66,7 +67,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9aaea5f32dd7a1ee71dacb13211be1d50b0d88e0e605b51c8349f4ce457fb578e117cef98070d3cc1e37c80733dd178ed94fce9ff82cf25825963443b806ac9b</string>
+    <string>2c0b8c6a6f05cd89e88c037068d389dfea2496a48a99998d7b54affe064b338ca84475106067c55c5deaaaa5dab20d09d6c9f23fd6d20bf037820bd169e6c57e</string>
     <key>hintSetList</key>
     <array>
       <dict>

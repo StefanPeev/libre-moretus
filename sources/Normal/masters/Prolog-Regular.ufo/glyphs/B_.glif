@@ -48,7 +48,7 @@
       <point x="220" y="80.454" type="line"/>
     </contour>
     <contour>
-      <point x="240" y="0" type="line"/>
+      <point x="240" y="0" type="line" name=".sk4"/>
       <point x="240" y="700" type="line" name=".sk2"/>
       <point x="185" y="700" type="line" name=".sk3"/>
       <point x="40" y="700" type="line"/>

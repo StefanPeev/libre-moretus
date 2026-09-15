@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0410" format="2">
-  <advance width="780"/>
+  <advance width="800"/>
   <unicode hex="0410"/>
-  <anchor x="380" y="810" name="top"/>
-  <anchor x="380" y="700" name="t.ring"/>
-  <anchor x="760" y="0" name="b.ogonek"/>
+  <anchor x="390" y="810" name="top"/>
+  <anchor x="390" y="700" name="t.ring"/>
+  <anchor x="770" y="0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
   </outline>

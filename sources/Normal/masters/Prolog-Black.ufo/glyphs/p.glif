@@ -32,7 +32,7 @@
       <point x="327" y="500"/>
       <point x="251.198" y="442.346"/>
       <point x="183.962" y="356.715" type="curve"/>
-      <point x="270" y="277" type="line" name=".sk2"/>
+      <point x="270" y="357" type="line" name=".sk2"/>
       <point x="270" y="480" type="line"/>
       <point x="240" y="490" type="line"/>
       <point x="20" y="430" type="line"/>
@@ -65,7 +65,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>cc9e9667fbc6f3797be8a53d180d691e44fac44b26809047d136cb917945c6d2e429a690c8b1afd93b4dfd46e8f05332280b6f054640d300d715542c7ece60b1</string>
+    <string>d169740f6ea165cf7ea9da566e3ff60abd0516d2e9cd37778dd42ded057975187010490cf640da02021051b9f4a9350855881ad84df08734bb0a6e0ac651aca8</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nacute" format="2">
-  <advance width="820"/>
+  <advance width="770"/>
   <unicode hex="0143"/>
-  <anchor x="437" y="-60" name="bottom"/>
+  <anchor x="457" y="-60" name="bottom"/>
   <outline>
     <component base="N"/>
-    <component base="uni0301" xOffset="405" yOffset="230"/>
+    <component base="uni0301" xOffset="385" yOffset="230"/>
   </outline>
   <lib>
   <dict>

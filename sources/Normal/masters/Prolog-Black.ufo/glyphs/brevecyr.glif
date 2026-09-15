@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecyr" format="2">
   <advance width="388"/>
+  <anchor x="194" y="570" name="_top"/>
   <outline>
     <contour>
       <point x="259" y="629" type="curve" smooth="yes"/>

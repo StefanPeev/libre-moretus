@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_cap.LC_l_top" format="2">
   <advance width="270"/>
+  <anchor x="260" y="617" name="node1"/>
+  <anchor x="70" y="617" name="node2"/>
   <outline>
     <contour>
-      <point x="260" y="537" type="move"/>
+      <point x="260" y="617" type="move"/>
       <point x="260" y="740" type="line"/>
       <point x="230" y="750" type="line"/>
       <point x="10" y="690" type="line"/>
@@ -11,6 +13,11 @@
       <point x="70" y="617" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="10" y="0"/>
+  <guideline angle="90" x="260" y="0"/>
+  <guideline angle="90" x="70" y="0"/>
+  <guideline angle="90" x="230" y="0"/>
+  <guideline angle="0" x="0" y="617"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

@@ -43,7 +43,8 @@
       <point x="266.299" y="495"/>
       <point x="197.746" y="457.88"/>
       <point x="151.538" y="391.867" type="curve"/>
-      <point x="199.965" y="319.053" type="line" name=".sk5"/>
+      <point x="200" y="391.867" type="line"/>
+      <point x="200" y="398.936" type="line" name=".sk5"/>
       <point x="200" y="479" type="line"/>
       <point x="170" y="489" type="line"/>
       <point x="40" y="449" type="line"/>
@@ -62,7 +63,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>89d56c4d95d10fee81c318f2a6658325905bbd1cdd1fd321b8452a0d2dddbc5d8f3c45a0b2a99da88122db7fa30bde0cdd8c8c3a43aa106078575322d002372e</string>
+    <string>367c9a7c2bad3d0fd404f95044dee10e07d188c2d7f6aa594e5205b57885bdd0999f0e07e3ac49b6d9bd121e70ced14dac5d3c9e3cf520269fc8050b6a9d9d2d</string>
     <key>hintSetList</key>
     <array>
       <dict>

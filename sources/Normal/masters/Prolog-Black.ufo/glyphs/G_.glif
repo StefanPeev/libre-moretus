@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="G" format="2">
-  <advance width="730"/>
+  <advance width="734"/>
   <unicode hex="0047"/>
   <anchor x="380" y="810" name="top"/>
   <anchor x="367" y="-60" name="bottom"/>
@@ -49,12 +49,16 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=C</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>05ba9d4d8187d1132ed7dd3915363c39632144e80eb96de6cd2944479cdccbbd384b1e48eb2d87df823e35ddfa694f03c6fcecaf7d70a7f771a89b693cfaaeb0</string>
+    <string>d9e7f7a12e17f2cf253f7cdc02795a8488182c610aab34b623d93c60029bad0c7c95326f172ee4c5ca6c11219d5014bd4243d0c2120c7e8589aef600e334ca75</string>
     <key>hintSetList</key>
     <array>
       <dict>

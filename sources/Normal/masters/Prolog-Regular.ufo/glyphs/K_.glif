@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
-  <advance width="751"/>
+  <advance width="761"/>
   <unicode hex="004B"/>
   <anchor x="397" y="-60" name="bottom"/>
   <outline>
@@ -10,7 +10,8 @@
       <point x="706.808" y="30"/>
       <point x="662.661" y="46.789"/>
       <point x="626" y="88" type="curve" smooth="yes"/>
-      <point x="344" y="405" type="line"/>
+      <point x="334.03" y="416.207" type="line"/>
+      <point x="333.319" y="394.469" type="line"/>
       <point x="558" y="616" type="line" smooth="yes"/>
       <point x="590.732" y="648.274"/>
       <point x="638" y="670"/>
@@ -29,10 +30,10 @@
       <point x="489.869" y="57.3086" type="line" smooth="yes"/>
       <point x="515.456" y="27.6614"/>
       <point x="546.028" y="0"/>
-      <point x="559.436" y="0" type="curve" smooth="yes"/>
+      <point x="559.436" y="0" type="curve"/>
     </contour>
     <contour>
-      <point x="240" y="90" type="curve"/>
+      <point x="240" y="90" type="curve" name=".sk4"/>
       <point x="240" y="610" type="line" name=".sk2"/>
       <point x="240" y="639"/>
       <point x="242.239" y="659.522"/>
@@ -69,7 +70,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d8e712539f1b1c8525f900296b066fe0298392a53e6e9e8cd16c41a8fe2fb05ab6aef6d160106cefe3dbad0c5192222f61d41880a207e51419bb1c4c14ea3cae</string>
+    <string>8f65ae2354e0654b64c26b3aebdf0f92c9a91c1b4c5d423c8dc7d50ea53af51b8d90d766a0cb74f919b105890b3292fd588663fc5a004e630aa455ae4845d8e9</string>
     <key>hintSetList</key>
     <array>
       <dict>

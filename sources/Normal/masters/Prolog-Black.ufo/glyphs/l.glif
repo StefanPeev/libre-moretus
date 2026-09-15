@@ -16,8 +16,8 @@
       <point x="340" y="40" type="line"/>
       <point x="290" y="50"/>
       <point x="270" y="70"/>
-      <point x="270" y="110" type="curve"/>
-      <point x="270" y="537" type="line" name=".sk2"/>
+      <point x="270" y="110" type="curve" name=".sk3"/>
+      <point x="270" y="617" type="line" name=".sk2"/>
       <point x="270" y="740" type="line"/>
       <point x="240" y="750" type="line"/>
       <point x="20" y="690" type="line"/>
@@ -37,7 +37,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w350m80,110c80,70 60,50 10,40l10,0l340,0l340,40c290,50 270,70 270,110l270,537l270,740l240,750l20,690l20,650l80,617</string>
+    <string>w350m90,110c90,70 70,50 20,40l20,0l350,0l350,40c300,50 280,70 280,110l280,617l280,740l250,750l30,690l30,650l90,617</string>
     <key>hintSetList</key>
     <array>
       <dict>

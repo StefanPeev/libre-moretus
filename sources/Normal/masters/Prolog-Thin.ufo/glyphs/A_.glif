@@ -1,61 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="2">
-  <advance width="780"/>
+  <advance width="710"/>
   <unicode hex="0041"/>
   <anchor x="380" y="810" name="top"/>
   <anchor x="380" y="700" name="t.ring"/>
   <anchor x="760" y="0" name="b.ogonek"/>
   <outline>
     <contour>
-      <point x="355" y="620" type="line"/>
-      <point x="460" y="335" type="line"/>
-      <point x="250" y="335" type="line"/>
+      <point x="356.211" y="680.654" type="line"/>
+      <point x="558.399" y="136.936" type="line" smooth="yes"/>
+      <point x="567.598" y="112.196"/>
+      <point x="574.009" y="89.7948"/>
+      <point x="574.009" y="74.2161" type="curve" smooth="yes"/>
+      <point x="574.009" y="57.5389"/>
+      <point x="561.078" y="28.178"/>
+      <point x="527.694" y="17.9059" type="curve" smooth="yes"/>
+      <point x="502" y="10" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="700" y="0" type="line"/>
+      <point x="700" y="10" type="line"/>
+      <point x="669.771" y="21.109" type="line" smooth="yes"/>
+      <point x="629.509" y="35.9048"/>
+      <point x="611.807" y="52.8962"/>
+      <point x="598" y="90" type="curve" smooth="yes"/>
+      <point x="371" y="700" type="line"/>
+      <point x="349.154" y="700" type="line"/>
+      <point x="353.029" y="688.212" type="line"/>
+      <point x="112" y="90" type="line" smooth="yes"/>
+      <point x="97.0895" y="52.9934"/>
+      <point x="74.4138" y="35.7655"/>
+      <point x="29.3195" y="17.7278" type="curve" smooth="yes"/>
+      <point x="10" y="10" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="209" y="10" type="line"/>
+      <point x="183" y="18" type="line" smooth="yes"/>
+      <point x="140.6" y="31.0461"/>
+      <point x="134.254" y="49.5631"/>
+      <point x="134.254" y="66.7582" type="curve" smooth="yes"/>
+      <point x="134.254" y="87.2449"/>
+      <point x="145.784" y="130.046"/>
+      <point x="157.809" y="160.293" type="curve" smooth="yes"/>
+      <point x="364.834" y="681" type="line"/>
     </contour>
     <contour>
-      <point x="547.009" y="87.9916" type="curve" smooth="yes"/>
-      <point x="547.009" y="71.3144"/>
-      <point x="536.095" y="54.8285"/>
-      <point x="520" y="50" type="curve" smooth="yes"/>
-      <point x="455" y="30" type="line"/>
-      <point x="455" y="0" type="line"/>
-      <point x="780" y="0" type="line"/>
-      <point x="780" y="30" type="line"/>
-      <point x="710" y="50" type="line" smooth="yes"/>
-      <point x="696.315" y="53.9099"/>
-      <point x="686" y="70"/>
-      <point x="678" y="90" type="curve" smooth="yes"/>
-      <point x="435" y="700" type="line"/>
-      <point x="340" y="700" type="line"/>
-      <point x="102" y="90" type="line" smooth="yes"/>
-      <point x="94" y="70"/>
-      <point x="85" y="54"/>
-      <point x="70" y="50" type="curve" smooth="yes"/>
-      <point x="0" y="30" type="line"/>
-      <point x="0" y="0" type="line"/>
-      <point x="260" y="0" type="line"/>
-      <point x="260" y="30" type="line"/>
-      <point x="195" y="50" type="line" smooth="yes"/>
-      <point x="178.406" y="54.9782"/>
-      <point x="165.254" y="72.3478"/>
-      <point x="165.254" y="89.5429" type="curve" smooth="yes"/>
-      <point x="165.254" y="93.0722"/>
-      <point x="165.808" y="96.5941"/>
-      <point x="167" y="100" type="curve" smooth="yes"/>
-      <point x="235" y="290" type="line"/>
-      <point x="475" y="290" type="line"/>
-      <point x="545" y="100" type="line" smooth="yes"/>
-      <point x="546.158" y="96.8562"/>
-      <point x="547.009" y="92.0377"/>
+      <point x="510" y="291.5" type="line"/>
+      <point x="199" y="291.5" type="line"/>
+      <point x="192" y="273.5" type="line"/>
+      <point x="518" y="273.5" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="18"/>
+  <guideline angle="290.363" x="352" y="692"/>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=10</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>05307265a91313d29aec10131c1bd84d0b854481d237abe22575325131f2effd2757109edaaf043c8bdbea298f23ad0a59909747cd023466ac6855a09bf546ca</string>
+    <string>479879b8213ec0360e6e55a8526b1442af0c722fe1536371b144290be8368fe067b42460c07b76397ab8572d9ba0cd1d7b9148f033e03d7f38fa4f72b89781e0</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -17,7 +17,7 @@
   </outline>
   <guideline angle="90" x="40" y="0"/>
   <guideline angle="0" x="0" y="90"/>
-  <guideline angle="0" x="0" y="30"/>
+  <guideline angle="0" x="0" y="22"/>
   <guideline angle="90" x="120" y="0"/>
   <lib>
   <dict>

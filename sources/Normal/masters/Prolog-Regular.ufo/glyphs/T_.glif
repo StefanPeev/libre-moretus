@@ -32,7 +32,7 @@
       <point x="290" y="589.742" type="line"/>
     </contour>
     <contour>
-      <point x="400" y="90" type="curve"/>
+      <point x="400" y="90" type="curve" name=".sk4"/>
       <point x="400" y="700" type="line" name=".sk2"/>
       <point x="290" y="700" type="line" name=".sk3"/>
       <point x="290" y="90" type="line" name=".sk1"/>

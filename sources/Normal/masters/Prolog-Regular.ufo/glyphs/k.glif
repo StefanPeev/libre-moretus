@@ -1,54 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="2">
-  <advance width="555"/>
+  <advance width="565"/>
   <unicode hex="006B"/>
-  <anchor x="297" y="-60" name="bottom"/>
+  <anchor x="307" y="-60" name="bottom"/>
   <outline>
     <contour>
-      <point x="260" y="30" type="line"/>
-      <point x="210" y="35"/>
-      <point x="190" y="60"/>
-      <point x="190" y="100" type="curve"/>
-      <point x="190" y="230" type="line"/>
-      <point x="420" y="0" type="line"/>
-      <point x="550" y="0" type="line"/>
-      <point x="550" y="30" type="line"/>
-      <point x="500" y="50"/>
-      <point x="470" y="80"/>
-      <point x="270" y="280" type="curve"/>
-      <point x="411" y="421"/>
-      <point x="440" y="440"/>
-      <point x="500" y="460" type="curve"/>
-      <point x="500" y="480" type="line"/>
-      <point x="270" y="480" type="line"/>
-      <point x="270" y="460" type="line"/>
-      <point x="300" y="450"/>
-      <point x="310" y="440"/>
-      <point x="310" y="420" type="curve" smooth="yes"/>
-      <point x="310" y="390"/>
-      <point x="300" y="380"/>
-      <point x="190" y="270" type="curve"/>
-      <point x="190" y="740" type="line"/>
-      <point x="160" y="750" type="line"/>
-      <point x="30" y="710" type="line"/>
-      <point x="30" y="690" type="line"/>
-      <point x="90" y="660" type="line"/>
-      <point x="90" y="100" type="line" smooth="yes"/>
-      <point x="90" y="60"/>
-      <point x="70" y="35"/>
-      <point x="20" y="30" type="curve"/>
-      <point x="20" y="0" type="line"/>
-      <point x="260" y="0" type="line"/>
+      <point x="180" y="250" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="560" y="30" type="line"/>
+      <point x="521.992" y="45.203"/>
+      <point x="495.031" y="65.6698"/>
+      <point x="397.191" y="163.223" type="curve" smooth="yes"/>
+      <point x="255.316" y="304.682" type="line"/>
+      <point x="257.602" y="257.527" type="line"/>
+      <point x="313.982" y="313.748" type="line" smooth="yes"/>
+      <point x="425.524" y="424.974"/>
+      <point x="455.16" y="441.72"/>
+      <point x="510" y="460" type="curve"/>
+      <point x="510" y="480" type="line"/>
+      <point x="280" y="480" type="line"/>
+      <point x="280" y="460" type="line"/>
+      <point x="310" y="450"/>
+      <point x="320" y="440"/>
+      <point x="320" y="420" type="curve" smooth="yes"/>
+      <point x="320" y="395.263"/>
+      <point x="313.477" y="383.85"/>
+      <point x="237.929" y="308.091" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="100" y="100" type="line" name=".sk1"/>
+      <point x="100" y="60"/>
+      <point x="80" y="40"/>
+      <point x="30" y="30" type="curve"/>
+      <point x="30" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="200" y="0" type="line" name=".sk3"/>
+      <point x="270" y="0" type="line"/>
+      <point x="270" y="30" type="line"/>
+      <point x="220" y="40"/>
+      <point x="200" y="60"/>
+      <point x="200" y="100" type="curve"/>
+      <point x="200" y="659.936" type="line" name=".sk2"/>
+      <point x="200" y="740" type="line"/>
+      <point x="170" y="750" type="line"/>
+      <point x="40" y="710" type="line"/>
+      <point x="40" y="690" type="line"/>
+      <point x="100" y="660" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=l</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5b1aaa942e9d8940afd344ebbdc2e1437ce4f874c417ce5e2508b095cea03112894e460641afb9071d003fc03ac67fc9186ff826a0f6c289ab7e350135e9d416</string>
+    <string>1579075efd0c3826e9cba86d9cc1a626ae63721982ded14212b2ebe5f30acbf14dcc32f66b8c9b06373b535d0ccda782abbb92a7e319f75b0190d94d97455794</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -57,7 +67,7 @@
           <string>hstem 0 30</string>
           <string>hstem 460 20</string>
           <string>hstem 730 20</string>
-          <string>vstem 90 100</string>
+          <string>vstem 100 100</string>
         </array>
       </dict>
     </array>

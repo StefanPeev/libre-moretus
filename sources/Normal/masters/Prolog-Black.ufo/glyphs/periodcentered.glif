@@ -2,6 +2,7 @@
 <glyph name="periodcentered" format="2">
   <advance width="273"/>
   <unicode hex="00B7"/>
+  <anchor x="137" y="327" name="_center"/>
   <outline>
     <contour>
       <point x="137" y="250" type="curve" smooth="yes"/>
@@ -18,6 +19,11 @@
       <point x="97" y="250"/>
     </contour>
   </outline>
+  <guideline angle="90" x="137" y="0"/>
+  <guideline angle="0" x="0" y="327"/>
+  <guideline angle="90" x="213" y="0"/>
+  <guideline angle="0" x="0" y="403"/>
+  <guideline angle="90" x="60" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -29,7 +35,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w273m137,250c178,250 213,282.5 213,327c213,372 177.5,403 137,403c97,403 60,372.5 60,327c60,282 97,250 137,250</string>
+    <string>w273m157,250c198,250 233,282.5 233,327c233,372 197.5,403 157,403c117,403 80,372.5 80,327c80,282 117,250 157,250</string>
     <key>hintSetList</key>
     <array>
       <dict>

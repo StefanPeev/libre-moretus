@@ -43,7 +43,8 @@
       <point x="238.894" y="486"/>
       <point x="178.477" y="442.692"/>
       <point x="149.517" y="385.335" type="curve"/>
-      <point x="160" y="333" type="line" name=".sk5"/>
+      <point x="160" y="384.927" type="line"/>
+      <point x="160" y="413" type="line" name=".sk5"/>
       <point x="160" y="470" type="line"/>
       <point x="150" y="474" type="line"/>
       <point x="80" y="453" type="line"/>
@@ -59,6 +60,7 @@
   <guideline angle="90" x="460" y="0"/>
   <guideline angle="90" x="450" y="0"/>
   <guideline angle="90" x="470" y="0"/>
+  <guideline angle="0" x="0" y="474"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -70,7 +72,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a42f5a6163d711fd796c504de608defa00c4de972151394dd7ff417a38efb9a08b11db9fc1786164bb3bc70a3abaf8179c1a23a1b3e46124f9fa90a7eb7007a7</string>
+    <string>53b63757e93edc34e7dce499664f6f6f3296fea4b42a402c22d902dc1d408e8d63c0796c1b802385e271e8610b192782784f7fed684d82e24ce80ffd8f76bb10</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,7 +2,7 @@
 <glyph name="uni0442.loclBGR" format="2">
   <advance width="900"/>
   <outline>
-    <component base="m"/>
+    <component base="m" xOffset="-80"/>
   </outline>
   <lib>
   <dict>

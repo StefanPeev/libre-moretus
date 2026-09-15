@@ -4,7 +4,7 @@
   <unicode hex="0070"/>
   <outline>
     <contour>
-      <point x="109.944" y="406.986" type="line"/>
+      <point x="110.001" y="406.763" type="line"/>
       <point x="110" y="-139.605" type="line" name=".sk1"/>
       <point x="110" y="-179.605"/>
       <point x="90" y="-199.605"/>
@@ -32,11 +32,11 @@
       <point x="219.411" y="486"/>
       <point x="178.778" y="465"/>
       <point x="123.724" y="406" type="curve"/>
-      <point x="130" y="327" type="line" name=".sk2"/>
-      <point x="129.904" y="464" type="line"/>
-      <point x="119.902" y="467.993" type="line"/>
-      <point x="49.9162" y="446.944" type="line"/>
-      <point x="49.9232" y="436.944" type="line"/>
+      <point x="130" y="407" type="line" name=".sk2"/>
+      <point x="129.325" y="463.996" type="line"/>
+      <point x="119.279" y="467.877" type="line"/>
+      <point x="49.5322" y="446.05" type="line"/>
+      <point x="49.6505" y="436.051" type="line"/>
     </contour>
     <contour>
       <point x="261.92" y="8" type="curve" smooth="yes"/>
@@ -66,7 +66,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>295f32d25b216eb007dd91359774ab55514b4436780ad54ec19f7fc7284879d7f2933cc0f05f8685b0a7a6f1c0c3168d0c093cda5632c4ffd45f021100e828c8</string>
+    <string>135b7a54f83d1785ec803bbabc522d18e7032f3a41b63626ea1ca7aad06930c1e4d1cb622affb69bdeafa79fbdcac8c9941be69f0d166483b39f0bc97be8448c</string>
     <key>hintSetList</key>
     <array>
       <dict>
