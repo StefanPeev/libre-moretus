@@ -25,9 +25,9 @@
       <point x="688" y="90" type="curve" smooth="yes"/>
       <point x="445" y="700" type="line"/>
       <point x="336.302" y="700" type="line"/>
-      <point x="344.765" y="674.456" type="line"/>
+      <point x="348.432" y="665.679" type="line"/>
       <point x="112" y="90" type="line" smooth="yes"/>
-      <point x="104.03" y="69.988"/>
+      <point x="103.817" y="70.0744"/>
       <point x="95" y="54"/>
       <point x="80" y="50" type="curve" smooth="yes"/>
       <point x="10" y="30" type="line"/>
@@ -39,9 +39,9 @@
       <point x="175.254" y="72.3478"/>
       <point x="175.254" y="89.5429" type="curve" smooth="yes"/>
       <point x="175.254" y="93.0722"/>
-      <point x="175.668" y="96.6465"/>
+      <point x="175.628" y="96.6623"/>
       <point x="177" y="100" type="curve" smooth="yes"/>
-      <point x="389.186" y="634.075" type="line"/>
+      <point x="392.853" y="625.299" type="line"/>
     </contour>
     <contour>
       <point x="515" y="315" type="line"/>
@@ -50,7 +50,6 @@
       <point x="530" y="270" type="line"/>
     </contour>
   </outline>
-  <guideline angle="290.061" x="360" y="634"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -62,7 +61,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0a3e29fcaecbdeb324542ced92a405adee4cee19f9c2084c1bdc123f8d7e4a993bf8e998dcbf431bcbf5d6e1382f94b6ab9af872011db8c57c5357e2859b6e07</string>
+    <string>55ed4c021b0550c5a9bd725199a075a083244dd9a684da045808b0ea4c02f2ca363d8f49a3b614114f1fb748be42a096bae5935892a4bf576f60314bde09f5a8</string>
     <key>hintSetList</key>
     <array>
       <dict>

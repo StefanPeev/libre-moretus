@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="2">
-  <advance width="574"/>
+  <advance width="548"/>
   <unicode hex="005A"/>
   <anchor x="290" y="810" name="top"/>
   <outline>
     <contour>
       <point x="10" y="0" type="line"/>
-      <point x="539" y="0" type="line"/>
-      <point x="564" y="240" type="line"/>
-      <point x="515" y="240" type="line"/>
-      <point x="478.1" y="86"/>
-      <point x="440.5" y="57"/>
-      <point x="379" y="57" type="curve" smooth="yes"/>
-      <point x="160" y="57" type="line"/>
-      <point x="167.229" y="44.1697" type="line"/>
-      <point x="539" y="658" type="line"/>
-      <point x="539" y="700" type="line"/>
+      <point x="513" y="0" type="line"/>
+      <point x="538" y="240" type="line"/>
+      <point x="489" y="240" type="line"/>
+      <point x="452.1" y="86"/>
+      <point x="414.5" y="57"/>
+      <point x="353" y="57" type="curve" smooth="yes"/>
+      <point x="134" y="57" type="line"/>
+      <point x="141.229" y="44.1697" type="line"/>
+      <point x="519" y="658" type="line"/>
+      <point x="519" y="700" type="line"/>
       <point x="35" y="700" type="line"/>
       <point x="35" y="476" type="line"/>
       <point x="84" y="476" type="line"/>
@@ -38,7 +38,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>de048de4179a538efd63c3124bc7f821836efa7ec98ed0bd6baac63f07649b3c34a376ecf54dad98e49664729cd389a00472525697b2c113f43ff4ce823cd3ad</string>
+    <string>eaa5de443e29a80e89ef1988a81707db06d8ff00ffd124e4897052e78650738bedbed1ef19ace433589aa342328fe57b2a8a25a74d14b9f900dfabb2fc0e4144</string>
     <key>hintSetList</key>
     <array>
       <dict>

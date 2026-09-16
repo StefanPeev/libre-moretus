@@ -1,52 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="2">
-  <advance width="636"/>
+  <advance width="691"/>
   <unicode hex="006B"/>
-  <anchor x="378" y="-60" name="bottom"/>
+  <anchor x="377" y="-60" name="bottom"/>
   <outline>
     <contour>
-      <point x="251" y="250" type="line"/>
-      <point x="501" y="0" type="line"/>
-      <point x="631" y="0" type="line"/>
-      <point x="631" y="30" type="line"/>
-      <point x="591.977" y="45.6092"/>
-      <point x="564.698" y="66.8687"/>
-      <point x="460.153" y="171.164" type="curve" smooth="yes"/>
-      <point x="326.316" y="304.682" type="line"/>
-      <point x="328.602" y="257.527" type="line"/>
-      <point x="394.941" y="323.524" type="line" smooth="yes"/>
-      <point x="498.141" y="426.193"/>
-      <point x="527.818" y="442.273"/>
-      <point x="581" y="460" type="curve"/>
-      <point x="581" y="480" type="line"/>
-      <point x="351" y="480" type="line"/>
-      <point x="351" y="460" type="line"/>
-      <point x="381" y="450"/>
-      <point x="391" y="440"/>
-      <point x="391" y="420" type="curve" smooth="yes"/>
-      <point x="391" y="397.506"/>
-      <point x="385.908" y="385.734"/>
-      <point x="327.763" y="327.233" type="curve" smooth="yes"/>
+      <point x="189.393" y="260.607" type="line"/>
+      <point x="429.488" y="0" type="line"/>
+      <point x="675" y="0" type="line"/>
+      <point x="675" y="30" type="line"/>
+      <point x="641.863" y="45.6092"/>
+      <point x="627.84" y="61.3088"/>
+      <point x="529.153" y="171.164" type="curve" smooth="yes"/>
+      <point x="381" y="336.085" type="line"/>
+      <point x="347.602" y="257.527" type="line"/>
+      <point x="413.941" y="323.524" type="line" smooth="yes"/>
+      <point x="517.141" y="426.193"/>
+      <point x="546.818" y="442.273"/>
+      <point x="600" y="460" type="curve"/>
+      <point x="600" y="480" type="line"/>
+      <point x="370" y="480" type="line"/>
+      <point x="370" y="460" type="line"/>
+      <point x="400" y="450"/>
+      <point x="410" y="440"/>
+      <point x="410" y="420" type="curve" smooth="yes"/>
+      <point x="410" y="397.506"/>
+      <point x="386.422" y="366.094"/>
+      <point x="346.763" y="327.233" type="curve" smooth="yes"/>
+      <point x="242.297" y="224.867" type="line"/>
     </contour>
     <contour>
-      <point x="81" y="110" type="line" name=".sk1"/>
-      <point x="81" y="70"/>
-      <point x="61" y="50"/>
-      <point x="11" y="40" type="curve"/>
-      <point x="11" y="9.09495e-13" type="line"/>
-      <point x="81" y="9.09495e-13" type="line"/>
-      <point x="271" y="9.09495e-13" type="line" name=".sk3"/>
-      <point x="341" y="9.09495e-13" type="line"/>
-      <point x="341" y="40" type="line"/>
-      <point x="291" y="50"/>
-      <point x="271" y="70"/>
-      <point x="271" y="110" type="curve"/>
-      <point x="271" y="617" type="line" name=".sk2"/>
-      <point x="271" y="740" type="line"/>
-      <point x="241" y="750" type="line"/>
-      <point x="21" y="690" type="line"/>
-      <point x="21" y="650" type="line"/>
-      <point x="81" y="617" type="line"/>
+      <point x="80" y="110" type="line" name=".sk1"/>
+      <point x="80" y="70"/>
+      <point x="60" y="50"/>
+      <point x="10" y="40" type="curve"/>
+      <point x="10" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="270" y="0" type="line" name=".sk3"/>
+      <point x="340" y="0" type="line"/>
+      <point x="340" y="40" type="line"/>
+      <point x="290" y="50"/>
+      <point x="270" y="70"/>
+      <point x="270" y="110" type="curve"/>
+      <point x="270" y="617" type="line" name=".sk2"/>
+      <point x="270" y="740" type="line"/>
+      <point x="240" y="750" type="line"/>
+      <point x="20" y="690" type="line"/>
+      <point x="20" y="650" type="line"/>
+      <point x="80" y="617" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -58,7 +59,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7489fcafbfceb7973320a205bd0693bd6cdc42c9f19b5401968e00d9dd3fdd3f75bcbd498fdbbaa2e4210bad8dba4b6ec7c2ee4e118a2fb0c8dad7bd20a8dc2b</string>
+    <string>fbd44363f6819a4c03dd9ae932d021244539886f04bd20f342b200f017ab355de7ceb4e052ad1ce70df80756b5c55a355b95eda79fe8bd38aedbd8171f0a472a</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -67,7 +68,7 @@
           <string>hstem 0 30</string>
           <string>hstem 460 20</string>
           <string>hstem 730 20</string>
-          <string>vstem 171 100</string>
+          <string>vstem 170 100</string>
         </array>
       </dict>
     </array>

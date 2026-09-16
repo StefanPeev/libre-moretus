@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0443" format="2">
-  <advance width="537"/>
+  <advance width="557"/>
   <unicode hex="0443"/>
   <anchor x="270" y="580" name="top"/>
   <outline>
@@ -8,12 +8,16 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=v</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=v</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w537</string>
+    <string>w557</string>
     <key>hintSetList</key>
     <array>
       <dict>

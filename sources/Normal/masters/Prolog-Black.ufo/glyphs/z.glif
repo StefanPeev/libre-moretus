@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="2">
-  <advance width="515"/>
+  <advance width="518"/>
   <unicode hex="007A"/>
-  <anchor x="250" y="580" name="top"/>
+  <anchor x="258" y="580" name="top"/>
   <outline>
     <contour>
-      <point x="30" y="0" type="line"/>
-      <point x="460" y="0" type="line"/>
-      <point x="480" y="170" type="line"/>
-      <point x="440" y="170" type="line"/>
-      <point x="410" y="60"/>
-      <point x="380" y="40"/>
-      <point x="330" y="40" type="curve" smooth="yes"/>
-      <point x="149" y="40" type="line"/>
-      <point x="155.22" y="27.8382" type="line"/>
-      <point x="460" y="450" type="line"/>
-      <point x="460" y="480" type="line"/>
-      <point x="50" y="480" type="line"/>
-      <point x="50" y="320" type="line"/>
-      <point x="90" y="320" type="line"/>
-      <point x="110" y="400"/>
-      <point x="130" y="440"/>
-      <point x="219" y="440" type="curve" smooth="yes"/>
-      <point x="345" y="440" type="line"/>
-      <point x="338.858" y="452.105" type="line"/>
-      <point x="30" y="30" type="line"/>
+      <point x="27" y="0" type="line"/>
+      <point x="476" y="0" type="line"/>
+      <point x="496" y="170" type="line"/>
+      <point x="456" y="170" type="line"/>
+      <point x="426" y="60"/>
+      <point x="396" y="40"/>
+      <point x="346" y="40" type="curve" smooth="yes"/>
+      <point x="157" y="40" type="line"/>
+      <point x="245.22" y="27.8382" type="line"/>
+      <point x="492" y="450" type="line"/>
+      <point x="492" y="480" type="line"/>
+      <point x="47" y="480" type="line"/>
+      <point x="47" y="320" type="line"/>
+      <point x="87" y="320" type="line"/>
+      <point x="107" y="400"/>
+      <point x="127" y="440"/>
+      <point x="216" y="440" type="curve" smooth="yes"/>
+      <point x="282" y="440" type="line"/>
+      <point x="270.858" y="452.105" type="line"/>
+      <point x="27" y="30" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>93a7be5e897ea21dd250a5d1b6a29f34334e77574a2b3b3dda297e262b31ae577c9db289f7d60bd6d7aadbcbb83a1f00ef8361d073fa6df196c491eaa99f9264</string>
+    <string>b20a16b18a48bd0a6328981ded3161b820ae057575117299ebdf7acc9933a01baaa9845834e16cb1e12e2d19db82955c955c89e75dcce45f6ce36c1729c74906</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -42,8 +42,8 @@
         <array>
           <string>hstem 0 40</string>
           <string>hstem 440 40</string>
-          <string>vstem 50 40</string>
-          <string>vstem 440 40</string>
+          <string>vstem 58 40</string>
+          <string>vstem 448 40</string>
         </array>
       </dict>
     </array>

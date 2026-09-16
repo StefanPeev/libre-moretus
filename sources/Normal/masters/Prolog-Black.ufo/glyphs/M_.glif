@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="2">
-  <advance width="1006"/>
+  <advance width="1103"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
@@ -8,15 +8,15 @@
       <point x="490" y="0" type="line"/>
       <point x="696.813" y="540" type="line" smooth="yes"/>
       <point x="714.115" y="585.175"/>
-      <point x="777.927" y="638.378"/>
-      <point x="833.836" y="658.918" type="curve" smooth="yes"/>
-      <point x="864" y="670" type="line"/>
-      <point x="864" y="700" type="line"/>
+      <point x="874.927" y="638.378"/>
+      <point x="930.836" y="658.918" type="curve" smooth="yes"/>
+      <point x="961" y="670" type="line"/>
+      <point x="961" y="700" type="line"/>
       <point x="681" y="700" type="line"/>
       <point x="681" y="656.238" type="line"/>
       <point x="491.592" y="166.009" type="line"/>
-      <point x="501.833" y="165.8" type="line"/>
-      <point x="320" y="700" type="line"/>
+      <point x="561.939" y="238.936" type="line"/>
+      <point x="405" y="700" type="line"/>
       <point x="128" y="700" type="line"/>
       <point x="128" y="670" type="line"/>
       <point x="180" y="650" type="line" smooth="yes"/>
@@ -26,16 +26,16 @@
     </contour>
     <contour>
       <point x="659" y="0" type="line"/>
-      <point x="966" y="0" type="line"/>
-      <point x="966" y="30" type="line"/>
-      <point x="884" y="50" type="line" smooth="yes"/>
-      <point x="866.852" y="54.1825"/>
-      <point x="856.265" y="82.4948"/>
-      <point x="854" y="100" type="curve" smooth="yes"/>
-      <point x="781.529" y="660" type="line"/>
+      <point x="1063" y="0" type="line"/>
+      <point x="1063" y="30" type="line"/>
+      <point x="981" y="50" type="line" smooth="yes"/>
+      <point x="963.852" y="54.1825"/>
+      <point x="953.265" y="82.4948"/>
+      <point x="951" y="100" type="curve" smooth="yes"/>
+      <point x="878.529" y="660" type="line"/>
       <point x="690.507" y="590.02" type="line"/>
       <point x="750" y="90" type="line" smooth="yes"/>
-      <point x="751.45" y="77.8093"/>
+      <point x="751.451" y="77.8093"/>
       <point x="750.495" y="64.3106"/>
       <point x="739" y="60" type="curve" smooth="yes"/>
       <point x="659" y="30" type="line"/>
@@ -68,7 +68,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>90eb72ae3b81bec6758f9a1f472a2866ad47e851f334d9e6efcfa96daf86bd0222d6e759219c4ebfba7259bd97b9f67242105010ececa0fb31bfbeb0fc090ce1</string>
+    <string>182eeec132b37c60e7d4d7052e1fa22b134fd6aedb239f3589ecda4100d8754442d6b51a390bf16fb27fc1d18490186cdbc20b1816e4b90798390920b885b2f0</string>
     <key>hintSetList</key>
     <array>
       <dict>

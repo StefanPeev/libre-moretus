@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aogonek" format="2">
-  <advance width="792"/>
+  <advance width="878"/>
   <unicode hex="0104"/>
   <anchor x="386" y="810" name="top"/>
   <anchor x="386" y="700" name="t.ring"/>

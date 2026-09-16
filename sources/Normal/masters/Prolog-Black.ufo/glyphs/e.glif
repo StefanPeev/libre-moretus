@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e" format="2">
-  <advance width="575"/>
+  <advance width="585"/>
   <unicode hex="0065"/>
   <anchor x="300" y="580" name="top"/>
   <anchor x="430" y="0" name="b.ogonek"/>
@@ -47,13 +47,13 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=o</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=10</string>
+  <string>=20</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>51034aa01fc3ee61d0f6ee8ecd394f471a4f09f05a9deb69d4509d547d591a6b92f478d8cfa4d15e7ffde61b57fb2620cd43f3acf4d8d4cfd95cd327670395f9</string>
+    <string>f06a175f5341b5658d89c4e549d78ea871cdb025a564d42dab5d0edcdc9cfe93c0226dcab480b78efcb712067112a1a20fcb32efba19e57011cc0fa05971c5ea</string>
     <key>hintSetList</key>
     <array>
       <dict>

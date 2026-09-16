@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="2">
-  <advance width="792"/>
+  <advance width="878"/>
   <unicode hex="0041"/>
   <anchor x="386" y="810" name="top"/>
   <anchor x="386" y="700" name="t.ring"/>
@@ -17,17 +17,17 @@
       <point x="526" y="50" type="curve" smooth="yes"/>
       <point x="461" y="30" type="line"/>
       <point x="461" y="0" type="line"/>
-      <point x="786" y="0" type="line"/>
-      <point x="786" y="30" type="line"/>
-      <point x="716" y="50" type="line" smooth="yes"/>
-      <point x="702.315" y="53.9099"/>
-      <point x="691.6" y="69.8445"/>
-      <point x="684" y="90" type="curve" smooth="yes"/>
-      <point x="454" y="700" type="line"/>
+      <point x="872" y="0" type="line"/>
+      <point x="872" y="30" type="line"/>
+      <point x="802" y="50" type="line" smooth="yes"/>
+      <point x="788.315" y="53.9099"/>
+      <point x="777.6" y="69.8445"/>
+      <point x="770" y="90" type="curve" smooth="yes"/>
+      <point x="540" y="700" type="line"/>
       <point x="331.899" y="700" type="line"/>
-      <point x="338.716" y="681.331" type="line"/>
+      <point x="345.507" y="662.735" type="line"/>
       <point x="108" y="90" type="line" smooth="yes"/>
-      <point x="100.17" y="69.9327"/>
+      <point x="99.7487" y="70.1024"/>
       <point x="91" y="54"/>
       <point x="76" y="50" type="curve" smooth="yes"/>
       <point x="6" y="30" type="line"/>
@@ -39,15 +39,15 @@
       <point x="171.254" y="72.3478"/>
       <point x="171.254" y="89.5429" type="curve" smooth="yes"/>
       <point x="171.254" y="93.0722"/>
-      <point x="171.717" y="96.6273"/>
+      <point x="171.639" y="96.6581"/>
       <point x="173" y="100" type="curve" smooth="yes"/>
-      <point x="376.186" y="634.075" type="line"/>
+      <point x="382.976" y="615.479" type="line"/>
     </contour>
     <contour>
-      <point x="521" y="315" type="line"/>
-      <point x="221" y="315" type="line"/>
-      <point x="206" y="270" type="line"/>
-      <point x="536" y="270" type="line"/>
+      <point x="521" y="319" type="line"/>
+      <point x="221" y="319" type="line"/>
+      <point x="206" y="265" type="line"/>
+      <point x="536" y="265" type="line"/>
     </contour>
   </outline>
   <guideline angle="290.061" x="356" y="634"/>
@@ -62,7 +62,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>cd5f94689665bf06929b2c8b71360b8021bc7bb1c414fc59fc765e993c328fc3f0a8d48eb71c12792d8f07658b3fcdc0108769275b72d4d2ed3546cacf54d218</string>
+    <string>99d40bc312d176fdb898cf95304ebcd86a1350a49594aea2da28450eefc64576ce703e4ce3879fcc93fdb3a52d1a09001e13acd95f501b802c3ae1232e75f7d7</string>
     <key>hintSetList</key>
     <array>
       <dict>
