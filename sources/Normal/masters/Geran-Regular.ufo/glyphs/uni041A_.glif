@@ -81,28 +81,6 @@
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=H</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>71103ed7615ae9955017f74a5103e02dfc5ac0bf4c3b027c52efc3082ee7253cf8c3659d56f4e189d1c61519b5011ca15ac221cbd3f21035f469089eb6b478ec</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -20 75</string>
-          <string>hstem 0 30</string>
-          <string>hstem 334 58</string>
-          <string>hstem 630.65 84.35</string>
-          <string>hstem 670 30</string>
-          <string>vstem 130 110</string>
-          <string>vstem 556.78 124.34</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="2">
-  <advance width="670"/>
+  <advance width="650"/>
   <unicode hex="0045"/>
   <anchor x="320" y="810" name="top"/>
   <anchor x="570" y="0" name="b.ogonek"/>
@@ -24,19 +24,25 @@
       <point x="130" y="610.112" type="curve"/>
     </contour>
     <contour>
-      <point x="600" y="0" type="line"/>
-      <point x="630" y="210" type="line"/>
-      <point x="590" y="210" type="line"/>
-      <point x="550" y="130" type="line" smooth="yes"/>
-      <point x="520" y="70"/>
-      <point x="490" y="50"/>
-      <point x="430" y="50" type="curve" smooth="yes"/>
-      <point x="280" y="50" type="line" smooth="yes"/>
-      <point x="260" y="50"/>
-      <point x="240" y="60"/>
-      <point x="240" y="90" type="curve"/>
-      <point x="220" y="90.4586" type="line"/>
-      <point x="220" y="-0.265941" type="line"/>
+      <point x="379.999" y="50" type="line"/>
+      <point x="220" y="50" type="line"/>
+      <point x="300" y="49.7851" type="line" name=".sk7"/>
+      <point x="280" y="49.7851" type="line" smooth="yes"/>
+      <point x="260" y="49.7851"/>
+      <point x="240" y="59.7851"/>
+      <point x="240" y="89.7851" type="curve"/>
+      <point x="220" y="89.7851" type="line"/>
+      <point x="220" y="-0.214851" type="line"/>
+      <point x="300" y="-0.214851" type="line"/>
+      <point x="380" y="-0.339151" type="line" name=".sk6"/>
+      <point x="599.998" y="-0.155351" type="line"/>
+      <point x="629.998" y="209.845" type="line"/>
+      <point x="589.998" y="209.845" type="line"/>
+      <point x="549.998" y="129.845" type="line" smooth="yes"/>
+      <point x="519.998" y="69.8446"/>
+      <point x="489.998" y="49.8446"/>
+      <point x="429.998" y="49.8446" type="curve" smooth="yes"/>
+      <point x="380" y="49.8446" type="line"/>
     </contour>
     <contour>
       <point x="470" y="230" type="line"/>
@@ -55,19 +61,25 @@
       <point x="440" y="230" type="line"/>
     </contour>
     <contour>
+      <point x="220" y="650" type="line"/>
+      <point x="370" y="650" type="line"/>
+      <point x="370" y="650" type="line" name=".sk5"/>
+      <point x="385" y="650" type="line" smooth="yes"/>
+      <point x="455.012" y="650"/>
+      <point x="485.397" y="634.807"/>
+      <point x="505" y="590" type="curve" smooth="yes"/>
+      <point x="540" y="510" type="line"/>
+      <point x="580" y="510" type="line"/>
+      <point x="580" y="700" type="line"/>
+      <point x="370" y="700" type="line"/>
+      <point x="294" y="700" type="line" name=".sk4"/>
+      <point x="220" y="700" type="line"/>
+      <point x="220" y="610" type="line"/>
       <point x="240" y="610" type="line"/>
       <point x="240" y="640"/>
       <point x="260" y="650"/>
       <point x="280" y="650" type="curve" smooth="yes"/>
-      <point x="380" y="650" type="line" smooth="yes"/>
-      <point x="440" y="650"/>
-      <point x="475" y="640"/>
-      <point x="500" y="590" type="curve" smooth="yes"/>
-      <point x="540" y="510" type="line"/>
-      <point x="580" y="510" type="line"/>
-      <point x="580" y="700" type="line"/>
-      <point x="220" y="700" type="line"/>
-      <point x="220" y="609.589" type="line"/>
+      <point x="294" y="650" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="130" y="0"/>
@@ -77,29 +89,6 @@
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=H</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>91b77fb339d69cee7feff448c27af7f9395d43af89b8f4b1f47e65f30b8c343affbfc0bdea12295846efe4213e51c7bd9c0096f98bb44c2e38f3120582a971c0</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 50</string>
-          <string>hstem 0 30</string>
-          <string>hstem 340 40</string>
-          <string>hstem 470 20</string>
-          <string>hstem 650 50</string>
-          <string>hstem 670 30</string>
-          <string>vstem 130 110</string>
-          <string>vstem 420 50</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

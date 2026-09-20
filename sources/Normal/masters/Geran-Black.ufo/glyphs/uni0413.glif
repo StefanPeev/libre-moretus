@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0413" format="2">
-  <advance width="720"/>
+  <advance width="718"/>
   <unicode hex="0413"/>
   <anchor x="350" y="810" name="top"/>
   <outline>
@@ -27,44 +27,31 @@
       <point x="348" y="72"/>
     </contour>
     <contour>
+      <point x="318" y="646" type="line"/>
+      <point x="458" y="646" type="line"/>
+      <point x="458" y="646" type="line" name=".sk5"/>
+      <point x="463" y="646" type="line" smooth="yes"/>
+      <point x="532.158" y="646"/>
+      <point x="561.214" y="631.226"/>
+      <point x="581" y="586" type="curve" smooth="yes"/>
+      <point x="616" y="506" type="line"/>
+      <point x="668" y="506" type="line"/>
+      <point x="668" y="700" type="line"/>
+      <point x="458" y="700" type="line"/>
+      <point x="402.394" y="699.714" type="line" name=".sk4"/>
+      <point x="318" y="699.629" type="line"/>
+      <point x="318" y="605.995" type="line"/>
       <point x="348" y="606" type="line"/>
       <point x="348" y="636"/>
       <point x="368" y="646"/>
       <point x="388" y="646" type="curve" smooth="yes"/>
-      <point x="488" y="646" type="line" smooth="yes"/>
-      <point x="548" y="646"/>
-      <point x="581" y="636"/>
-      <point x="606" y="586" type="curve" smooth="yes"/>
-      <point x="646" y="506" type="line"/>
-      <point x="688" y="506" type="line"/>
-      <point x="688" y="700" type="line"/>
-      <point x="318" y="699.629" type="line"/>
-      <point x="318" y="605.995" type="line"/>
+      <point x="402.394" y="646" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=H</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>8cac982cca1257c3e26a8980f5faa911bc103a67f7a5aa7ac130aa14cb591683fc977fb50abd1116a6bb3fbee3e222ce4bc54ad6a540fdc9753f3cd255481e87</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 30</string>
-          <string>hstem 650 50</string>
-          <string>hstem 670 30</string>
-          <string>vstem 150 110</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

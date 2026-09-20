@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="2">
-  <advance width="736"/>
+  <advance width="727"/>
   <unicode hex="013D"/>
   <anchor x="206" y="810" name="top"/>
   <anchor x="368" y="-60" name="bottom"/>

@@ -1,4 +1,4 @@
-![Sample Image](/images/Prolog_01.jpg)
+![Sample Image](/images/Geran_950x475_01.jpg)
 
 Geran is the new name of the font project, which started with Libre Moretus by Eli Heuer and later was continued in the fork of [Libre Moretus project](https://github.com/davelab6/libre-moretus) as a new branch under the name Prolog.  
 Since the name "Prolog" was already taken by another typeface project, I decided it would be best to continue developing the project under a new name. The name "Geran" derives from an old Bulgarian word for a type of well where water is drawn from deep underground using a bucket and a sweep (a counterweighted lever). The word "geran" is characteristic of Bulgarian literature and folklore. I hope it will also hold symbolic significance in typography, alluding to the extraction of new typeface content from classical sources.  

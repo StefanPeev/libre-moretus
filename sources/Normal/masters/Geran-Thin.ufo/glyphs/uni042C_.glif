@@ -4,17 +4,15 @@
   <unicode hex="042C"/>
   <outline>
     <contour>
-      <point x="120" y="109.929" type="line"/>
-      <point x="120" y="0" type="line"/>
       <point x="304.756" y="0" type="line" smooth="yes"/>
-      <point x="436.303" y="0"/>
+      <point x="436.302" y="-0.1219"/>
       <point x="524" y="80"/>
       <point x="524" y="200" type="curve" smooth="yes"/>
       <point x="524" y="316.4"/>
       <point x="435.397" y="394"/>
       <point x="302.492" y="394" type="curve" smooth="yes"/>
-      <point x="127" y="394" type="line"/>
-      <point x="127" y="378" type="line"/>
+      <point x="131.714" y="394" type="line"/>
+      <point x="131.714" y="378" type="line"/>
       <point x="300.551" y="378" type="line" smooth="yes"/>
       <point x="420.221" y="378"/>
       <point x="500" y="306.983"/>
@@ -22,11 +20,15 @@
       <point x="500" y="89.7834"/>
       <point x="423.42" y="16"/>
       <point x="308.551" y="16" type="curve" smooth="yes"/>
-      <point x="222.858" y="16" type="line" smooth="yes"/>
-      <point x="175.455" y="16"/>
-      <point x="142" y="47.8641"/>
-      <point x="142" y="90.1603" type="curve" smooth="yes"/>
-      <point x="142" y="109.929" type="line"/>
+      <point x="131.714" y="16" type="line"/>
+      <point x="221.402" y="16.1603" type="line" name=".sk6"/>
+      <point x="209.714" y="16.1603" type="line" smooth="yes"/>
+      <point x="168.914" y="16.1603"/>
+      <point x="141.714" y="48.1603"/>
+      <point x="141.714" y="90.1603" type="curve"/>
+      <point x="131.714" y="90.053" type="line"/>
+      <point x="131.714" y="0.160295" type="line"/>
+      <point x="221.402" y="0.160295" type="line"/>
     </contour>
     <contour>
       <point x="142" y="0" type="line" name=".sk4"/>
@@ -55,27 +57,6 @@
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=H</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>88ec87bd10bd0ac9103e081be2a97ed68b3b9fd586e2e4444dc2ef8297658b20d32a4780539beb6de058ba8f46dc706ce6df30543ff6ca5fae15731214f0a706</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 40</string>
-          <string>hstem 0 30</string>
-          <string>hstem 354 40</string>
-          <string>hstem 670 30</string>
-          <string>vstem 32 110</string>
-          <string>vstem 402 120</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

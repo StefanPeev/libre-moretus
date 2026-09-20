@@ -56,26 +56,4 @@
   <guideline angle="90" x="200" y="0"/>
   <guideline angle="90" x="410" y="0"/>
   <guideline angle="90" x="510" y="0"/>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>367c9a7c2bad3d0fd404f95044dee10e07d188c2d7f6aa594e5205b57885bdd0999f0e07e3ac49b6d9bd121e70ced14dac5d3c9e3cf520269fc8050b6a9d9d2d</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 30</string>
-          <string>hstem 435 60</string>
-          <string>vstem 410 100</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

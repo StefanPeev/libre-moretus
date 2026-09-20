@@ -4,8 +4,14 @@
   <unicode hex="0414"/>
   <outline>
     <contour>
-      <point x="580" y="590" type="line"/>
-      <point x="580" y="700" type="line" name=".sk5"/>
+      <point x="466.225" y="650" type="line" name=".sk5"/>
+      <point x="480.113" y="650" type="line" smooth="yes"/>
+      <point x="500.476" y="650"/>
+      <point x="520.113" y="640.39"/>
+      <point x="520.113" y="610" type="curve"/>
+      <point x="540.113" y="610" type="line"/>
+      <point x="540.113" y="700" type="line" name=".sk5"/>
+      <point x="466.225" y="700" type="line"/>
       <point x="110" y="700" type="line"/>
       <point x="110" y="670" type="line"/>
       <point x="190" y="650" type="line" smooth="yes"/>
@@ -24,21 +30,19 @@
       <point x="292.233" y="642.891"/>
       <point x="310" y="650"/>
       <point x="330" y="650" type="curve" smooth="yes"/>
-      <point x="480" y="650" type="line" smooth="yes"/>
-      <point x="500" y="650"/>
-      <point x="520" y="643"/>
-      <point x="520" y="620" type="curve"/>
-      <point x="520" y="590" type="line"/>
+      <point x="466.113" y="650" type="line"/>
     </contour>
     <contour>
       <point x="230" y="0" type="curve" smooth="yes"/>
-      <point x="630" y="0" type="line"/>
-      <point x="630" y="167" type="line"/>
-      <point x="520" y="167" type="line"/>
-      <point x="520" y="90" type="line" smooth="yes"/>
-      <point x="520" y="60"/>
-      <point x="500" y="50"/>
-      <point x="480" y="50" type="curve" smooth="yes"/>
+      <point x="460.113" y="0" type="line" name=".sk6"/>
+      <point x="540.113" y="0" type="line"/>
+      <point x="540.113" y="90" type="line"/>
+      <point x="520.113" y="90" type="line"/>
+      <point x="520.113" y="60"/>
+      <point x="500.113" y="50"/>
+      <point x="480.113" y="50" type="curve" smooth="yes"/>
+      <point x="460.113" y="50" type="line"/>
+      <point x="460.113" y="50" type="line"/>
       <point x="30" y="50" type="line"/>
       <point x="30" y="-180" type="line"/>
       <point x="70" y="-180" type="line"/>
@@ -59,7 +63,7 @@
       <point x="520" y="0" type="line" name=".sk1"/>
     </contour>
     <contour>
-      <point x="440" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
       <point x="530" y="0" type="line" smooth="yes"/>
       <point x="590" y="0"/>
       <point x="632.7" y="-8.09913"/>
@@ -72,33 +76,6 @@
       <point x="630" y="70"/>
       <point x="630" y="90" type="curve" smooth="yes"/>
       <point x="630" y="106" type="line"/>
-      <point x="520" y="106" type="line"/>
-      <point x="520" y="20" type="line"/>
-      <point x="440" y="19.9985" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>9c13d8406f63eee877a7f0fda4fa5a52a0d2c1b29f9b4a57825957ae4f29de65fef6a48d9dd2f2d793df7f58bcaefac752adcd1361f9d39fee54e418daed15e5</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 50</string>
-          <string>hstem 650 50</string>
-          <string>hstem 670 30</string>
-          <string>vstem 200 70</string>
-          <string>vstem 520 110</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

@@ -27,44 +27,31 @@
       <point x="240" y="60.6"/>
     </contour>
     <contour>
+      <point x="220" y="650" type="line"/>
+      <point x="370" y="650" type="line"/>
+      <point x="370" y="650" type="line" name=".sk5"/>
+      <point x="385" y="650" type="line" smooth="yes"/>
+      <point x="455.012" y="650"/>
+      <point x="485.397" y="634.807"/>
+      <point x="505" y="590" type="curve" smooth="yes"/>
+      <point x="540" y="510" type="line"/>
+      <point x="580" y="510" type="line"/>
+      <point x="580" y="700" type="line"/>
+      <point x="370" y="700" type="line"/>
+      <point x="294" y="700" type="line" name=".sk4"/>
+      <point x="220" y="700" type="line"/>
+      <point x="220" y="610" type="line"/>
       <point x="240" y="610" type="line"/>
       <point x="240" y="640"/>
       <point x="260" y="650"/>
       <point x="280" y="650" type="curve" smooth="yes"/>
-      <point x="380" y="650" type="line" smooth="yes"/>
-      <point x="440" y="650"/>
-      <point x="475" y="640"/>
-      <point x="500" y="590" type="curve" smooth="yes"/>
-      <point x="540" y="510" type="line"/>
-      <point x="580" y="510" type="line"/>
-      <point x="580" y="700" type="line"/>
-      <point x="220" y="700" type="line"/>
-      <point x="220" y="609.589" type="line"/>
+      <point x="294" y="650" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=H</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a42e95e43c7b61fd053ea7384cf64e17c27b67538e35d1da16073ae15dd18437c3d1f6548a470bf2c9322cc4e0366739b8b9599443aa9aa628a8005c754fb3e4</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 30</string>
-          <string>hstem 650 50</string>
-          <string>hstem 670 30</string>
-          <string>vstem 130 110</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

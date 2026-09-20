@@ -45,22 +45,6 @@
   <string>=uni0237</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni0237</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>45c0e59274e26d3c076b4eb99c35e6e1aa5c6b1049da2fdb53f998ae92cffa7d8d835a51c342c6da5879d15e3f4e80ca2bc145c8372c5a26d29df278afbee189</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 635 130</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

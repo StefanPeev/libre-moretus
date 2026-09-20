@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.UC_E_B_in" format="2">
+  <advance width="170"/>
+  <anchor x="40" y="0" name="origin"/>
+  <anchor x="130" y="16" name="left"/>
+  <anchor x="130" y="0" name="right"/>
+  <outline>
+    <contour>
+      <point x="129.688" y="16" type="move"/>
+      <point x="118" y="16" type="line" smooth="yes"/>
+      <point x="77.2" y="16"/>
+      <point x="50" y="48"/>
+      <point x="50" y="90" type="curve"/>
+      <point x="40" y="89.8927" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="129.688" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
+  </dict>
+  </lib>
+</glyph>

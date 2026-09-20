@@ -38,26 +38,6 @@
   <string>=l</string>
   <key>com.fontlab.metricsRight</key>
   <string>=n</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>cbb6e6af134327d0527fbfc56274f139e38914137cd51ee214166c780c989dbac13a8fd539121cea59a44c8cd092f352428aef2c3125d1f9359b00694c622d80</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 25</string>
-          <string>hstem 430 60</string>
-          <string>hstem 730 20</string>
-          <string>vstem 140 100</string>
-          <string>vstem 440 100</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

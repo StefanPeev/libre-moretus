@@ -5,7 +5,7 @@
   <anchor x="267" y="-60" name="bottom"/>
   <outline>
     <contour>
-      <point x="140.382" y="260.595" type="line"/>
+      <point x="151" y="250" type="line"/>
       <point x="400.526" y="0" type="line"/>
       <point x="490" y="0" type="line"/>
       <point x="490" y="10" type="line"/>
@@ -16,7 +16,7 @@
       <point x="167.849" y="247.796" type="line"/>
       <point x="236.154" y="315.885" type="line" smooth="yes"/>
       <point x="345.858" y="425.244"/>
-      <point x="365.515" y="451.838"/>
+      <point x="368.515" y="447.838"/>
       <point x="420" y="470" type="curve"/>
       <point x="420" y="480" type="line"/>
       <point x="250" y="480" type="line"/>
@@ -25,9 +25,8 @@
       <point x="290" y="440"/>
       <point x="290" y="420" type="curve" smooth="yes"/>
       <point x="290" y="396.721"/>
-      <point x="284.412" y="385.055"/>
-      <point x="220.538" y="320.876" type="curve"/>
-      <point x="140.419" y="239.368" type="line"/>
+      <point x="284.013" y="385.45"/>
+      <point x="220.538" y="320.876" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="140" y="80" type="line" name=".sk1"/>
@@ -50,29 +49,12 @@
       <point x="140" y="689" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="250"/>
+  <guideline angle="90" x="151" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=l</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>6ef6435945736a6b6c99ff41acecb5d2c13d785a8fe131d49f7db6c6ef008a6fe2311b1198d0ef5f62f929913b4cba7d708122ee187fc4b0d499a9c22c9183ad</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 30</string>
-          <string>hstem 460 20</string>
-          <string>hstem 730 20</string>
-          <string>vstem 60 100</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

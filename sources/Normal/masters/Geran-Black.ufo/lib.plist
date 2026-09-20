@@ -989,6 +989,12 @@
     <string>_corner.UC_I_TL</string>
     <string>_corner.UC_I_BR</string>
     <string>_cap.LC_l_top</string>
+    <string>_corner.UC_E_T_in</string>
+    <string>_corner.UC_E_TR_serif</string>
+    <string>_corner.UC_E_B_serif</string>
+    <string>_corner.UC_E_B_in</string>
+    <string>_corner.UC_Dcyr_B_in</string>
+    <string>_corner.UC_Dcyr_T_in</string>
   </array>
   <key>public.skipExportGlyphs</key>
   <array>
@@ -1004,6 +1010,12 @@
     <string>_corner.UC_I_TL</string>
     <string>_corner.UC_I_BR</string>
     <string>_cap.LC_l_top</string>
+    <string>_corner.UC_E_T_in</string>
+    <string>_corner.UC_E_TR_serif</string>
+    <string>_corner.UC_E_B_serif</string>
+    <string>_corner.UC_E_B_in</string>
+    <string>_corner.UC_Dcyr_B_in</string>
+    <string>_corner.UC_Dcyr_T_in</string>
   </array>
 </dict>
 </plist>

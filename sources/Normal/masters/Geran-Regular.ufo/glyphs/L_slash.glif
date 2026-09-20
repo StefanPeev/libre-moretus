@@ -4,19 +4,10 @@
   <unicode hex="0141"/>
   <outline>
     <contour>
-      <point x="580" y="0" type="line"/>
-      <point x="610" y="210" type="line"/>
-      <point x="570" y="210" type="line"/>
-      <point x="530" y="130" type="line" smooth="yes"/>
-      <point x="500" y="70"/>
-      <point x="470" y="50"/>
-      <point x="410" y="50" type="curve" smooth="yes"/>
-      <point x="300" y="50" type="line" smooth="yes"/>
-      <point x="280" y="50"/>
-      <point x="260" y="60"/>
-      <point x="260" y="90" type="curve"/>
-      <point x="240" y="90.4586" type="line"/>
-      <point x="240" y="-0.265941" type="line"/>
+      <point x="350.001" y="50" type="line"/>
+      <point x="240.017" y="50" type="line"/>
+      <point x="240.017" y="-0.212738" type="line" name=".sk6"/>
+      <point x="350.001" y="-0.160338" type="line" name=".sk5"/>
     </contour>
     <contour>
       <point x="425" y="470.849" type="line"/>

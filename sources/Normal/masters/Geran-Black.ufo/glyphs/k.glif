@@ -5,7 +5,7 @@
   <anchor x="377" y="-60" name="bottom"/>
   <outline>
     <contour>
-      <point x="189.393" y="260.607" type="line"/>
+      <point x="231" y="215.445" type="line"/>
       <point x="429.488" y="0" type="line"/>
       <point x="675" y="0" type="line"/>
       <point x="675" y="30" type="line"/>
@@ -25,9 +25,8 @@
       <point x="410" y="440"/>
       <point x="410" y="420" type="curve" smooth="yes"/>
       <point x="410" y="397.506"/>
-      <point x="386.422" y="366.094"/>
+      <point x="386.705" y="365.803"/>
       <point x="346.763" y="327.233" type="curve" smooth="yes"/>
-      <point x="242.297" y="224.867" type="line"/>
     </contour>
     <contour>
       <point x="80" y="110" type="line" name=".sk1"/>
@@ -50,29 +49,12 @@
       <point x="80" y="617" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="231" y="0"/>
+  <guideline angle="0" x="0" y="215"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=l</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>fbd44363f6819a4c03dd9ae932d021244539886f04bd20f342b200f017ab355de7ceb4e052ad1ce70df80756b5c55a355b95eda79fe8bd38aedbd8171f0a472a</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 30</string>
-          <string>hstem 460 20</string>
-          <string>hstem 730 20</string>
-          <string>vstem 170 100</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

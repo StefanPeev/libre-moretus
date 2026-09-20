@@ -280,6 +280,18 @@
   <string>_corner.L_C__n_right_inside.glif</string>
   <key>_corner.LC_n_right_ouside</key>
   <string>_corner.L_C__n_right_ouside.glif</string>
+  <key>_corner.UC_Dcyr_B_in</key>
+  <string>_corner.U_C__D_cyr_B__in.glif</string>
+  <key>_corner.UC_Dcyr_T_in</key>
+  <string>_corner.U_C__D_cyr_T__in.glif</string>
+  <key>_corner.UC_E_B_in</key>
+  <string>_corner.U_C__E__B__in.glif</string>
+  <key>_corner.UC_E_B_serif</key>
+  <string>_corner.U_C__E__B__serif.glif</string>
+  <key>_corner.UC_E_TR_serif</key>
+  <string>_corner.U_C__E__T_R__serif.glif</string>
+  <key>_corner.UC_E_T_in</key>
+  <string>_corner.U_C__E__T__in.glif</string>
   <key>_corner.UC_I_BL</key>
   <string>_corner.U_C__I__B_L_.glif</string>
   <key>_corner.UC_I_BR</key>

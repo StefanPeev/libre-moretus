@@ -49,13 +49,15 @@
       <point x="493" y="622.81"/>
       <point x="417.472" y="700"/>
       <point x="304.18" y="700" type="curve" smooth="yes"/>
-      <point x="119.725" y="700" type="line"/>
-      <point x="119.725" y="593.991" type="line"/>
-      <point x="141.725" y="593.991" type="line"/>
-      <point x="141.725" y="610" type="line" smooth="yes"/>
-      <point x="141.725" y="650"/>
-      <point x="170.609" y="684"/>
-      <point x="232.315" y="684" type="curve" smooth="yes"/>
+      <point x="226.918" y="700.02" type="line" name=".sk5"/>
+      <point x="132.02" y="700.028" type="line"/>
+      <point x="132.02" y="610.498" type="line"/>
+      <point x="142.02" y="610" type="line"/>
+      <point x="142.02" y="650"/>
+      <point x="170.02" y="684"/>
+      <point x="211.02" y="684" type="curve" smooth="yes"/>
+      <point x="226.918" y="684" type="line"/>
+      <point x="132.02" y="684" type="line"/>
       <point x="297.961" y="684" type="line" smooth="yes"/>
       <point x="400.584" y="684"/>
       <point x="469" y="612.192"/>
@@ -77,26 +79,6 @@
   <string>=H</string>
   <key>com.fontlab.metricsRight</key>
   <string>=O-30</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>ce3be2f7f83c5b68e6bd37f29f11ac7c1940e9dbcf2a27d0b39e9a00a2e5b346dfa54eaced03c55cea258c57b4c5aa004d4c9d73ccdb41d88ddd8811756dcc4c</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 30</string>
-          <string>hstem 660 40</string>
-          <string>hstem 670 30</string>
-          <string>vstem 150 110</string>
-          <string>vstem 510 120</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

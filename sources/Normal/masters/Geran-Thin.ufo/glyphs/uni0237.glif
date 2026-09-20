@@ -31,22 +31,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>j%</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d5cbab11a24e851111cdfd601106d112d97e13ed524eb4e8aba3bbbe7afa708cf06a37ff19083b08f8d61fe8e01826c2759af60acf0be7cfdb40642e9a79781b</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 635 130</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>
