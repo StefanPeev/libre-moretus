@@ -1,39 +1,33 @@
 ![Sample Image](/images/Prolog_01.jpg)
 
-Prolog is a continuation of the Libre Moretus project. The Libre Moretus project was started by Eli Heuer. Eli's idea was great, but when I tried to propose a Cyrillic version of the project, the work did not work out. Eli changed the direction of work and preferred to work alone, converting his original project into the [Epistle font](https://github.com/eliheuer/epistle). To smooth the change, Dave Crossland (from Google Fonts) created his own [Libre Moretus repository](https://github.com/davelab6/libre-moretus). 
- 
-I must admit that due to the lack of the necessary experience and due to insufficient information about the history of the Plantin project, my first attempts at Cyrillic for the Libre Moretus font were chaotic. And although these attempts, with a number of changes, were included by Eli Heuer in his [Epistle project](https://github.com/eliheuer/epistle), I think that we are still at a dead end. And since I am convinced that a project in the spirit of Plantin Moretus would have a serious presence in the modern printed and digital sphere, I decided to continue my work, but now under the name of the Prolog project. Whether this name will remain in the final form of the font family, I do not yet know - for now it is a great working title. The more important thing is that the work continues. Enough reference materials need to be collected and the development of the idea for a font, inspired by Granjon's Gros Cicero and subsequently continued as Plantin-Moretus, needs to be carefully monitored. 
- 
-Libre Moretus is a revival of the Plantin typeface, as designed by Frank Hinman Pierpont in 1913 for Monotype, and the name is still a registered trademark in the USA. The primary referance source is scans of Letraset Plantin 110. 
+Geran is the new name of the font project, which started with Libre Moretus by Eli Heuer and later was continued in the fork of [Libre Moretus project](https://github.com/davelab6/libre-moretus) as a new branch under the name Prolog.  
+Since the name "Prolog" was already taken by another typeface project, I decided it would be best to continue developing the project under a new name. The name "Geran" derives from an old Bulgarian word for a type of well where water is drawn from deep underground using a bucket and a sweep (a counterweighted lever). The word "geran" is characteristic of Bulgarian literature and folklore. I hope it will also hold symbolic significance in typography, alluding to the extraction of new typeface content from classical sources.  
+
  
 ## Contents
 
-* [Installation](#installation)
-* [Overview of Features](#overview-of-features)
-* [Resources](https://github.com/StefanPeev/libre-moretus/blob/prolog/reference/Plantin.md)
-* [License](https://github.com/StefanPeev/libre-moretus/blob/prolog/OFL.txt)
+* [Resources](https://github.com/StefanPeev/libre-moretus/blob/geran/reference/Plantin.md)
+* [License](https://github.com/StefanPeev/libre-moretus/blob/geran/OFL.txt)
 
 ## Overview of Features
 
-- **Typeface Name**: Prolog
+- **Typeface Name**: Geran
 - **Category**: Old-style
 - **Number of Glyphs**: 783
-- **Included Styles**: Regular
-- **Latest Release**: 1.014
-
-## Resources
-* [About Libre Moretus](docs/ABOUT.md)
-* [Full specimen](http://link)
-* [Changelog](CHANGELOG.md)
-* [Contributors](docs/CONTRIBUTORS.md)
-
-## Copyrights
-
-Copyright 2025 The Prolog Project Authors.
-
-See [OFL.txt](OFL.txt) for the full texts of the licenses.
-
-The Prolog Project Authors includes:
+- **Included Styles**: Thin, ExtraLight, Light, Regular, Medium, SemiBold, Bold, ExtraBold, Black  
+- **Masters**: Thin, Regular, Black  
+- **Latest Release**: 1.024
+  
+## Resources  
+* [Changelog](CHANGELOG.md)  
+  
+## Copyrights  
+  
+Copyright 2026 The Geran Project Authors.  
+  
+See [OFL.txt](OFL.txt) for the full texts of the licenses.  
+  
+The Geran Project Authors includes:  
 
 * Stefan Peev
   
@@ -58,14 +52,14 @@ The **Localfonts** project consists of the following fonts:
 + [Open Sans](https://github.com/StefanPeev/opensans/tree/local)  
 + [Perun](https://github.com/StefanPeev/Perun)  
 + [Pliska](https://github.com/StefanPeev/Pliska)  
-+ [Prolog | Libre Moretus](https://github.com/StefanPeev/libre-moretus/tree/prolog)  
++ [Geran | Libre Moretus](https://github.com/StefanPeev/libre-moretus/tree/geran)  
 + [Repo](https://github.com/StefanPeev/Repo)  
 + [Scada | Cascade](https://github.com/StefanPeev/Scada-Cascade/tree/local)  
 + [Spritulo](https://github.com/StefanPeev/spritulo)  
 + [Terminalia](https://github.com/StefanPeev/Terminalia)  
 + [Veleka](https://github.com/StefanPeev/Veleka)  
   
-Donations
----------
-
-If you apreciate the project, please feel free to donate: [PayPal](https://www.paypal.me/localfonts).  
+Donations  
+---------  
+  
+If you apreciate the project, please feel free to support us through [sponsorship button](https://github.com/sponsors/StefanPeev).  

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis name="weight" minimum="100" default="400" maximum="900" tag="wght">
+   <labelname xml:lang="en">Weight</labelname>
+   <map output="100" input="100"/>
+   <map output="400" input="400"/>
+   <map output="900" input="900"/>
+  </axis>
+ </axes>
+ <sources>
+  <source stylename="Black" name="Black" familyname="Geran" filename="masters/Geran-Black.ufo">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </source>
+  <source stylename="Regular" name="Regular" familyname="Geran" filename="masters/Geran-Regular.ufo">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+  <source stylename="Thin" name="Thin" familyname="Geran" filename="masters/Geran-Thin.ufo">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </source>
+ </sources>
+ <lib>
+  <dict>
+   <key>public.skipExportGlyphs</key>
+   <array>
+    <string>_corner.LC_n_left_outside</string>
+    <string>_corner.LC_n_left_inside</string>
+    <string>_corner.LC_n_right_inside</string>
+    <string>_corner.LC_n_right_ouside</string>
+    <string>_cap.LC_l_bottom</string>
+    <string>_cap.UC_I_bottom</string>
+    <string>_cap.UC_I_top</string>
+    <string>_corner.UC_I_BL</string>
+    <string>_corner.UC_I_TR</string>
+    <string>_corner.UC_I_TL</string>
+    <string>_corner.UC_I_BR</string>
+    <string>_cap.LC_l_top</string>
+   </array>
+  </dict>
+ </lib>
+ <instances>
+  <instance stylename="Thin" name="Thin" familyname="Geran" filename="instances/Geran-Thin.ufo">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </instance>
+  <instance stylename="ExtraLight" name="ExtraLight" familyname="Geran" filename="instances/Geran-ExtraLight.ufo">
+   <location>
+    <dimension name="weight" xvalue="200"/>
+   </location>
+  </instance>
+  <instance stylename="Light" name="Light" familyname="Geran" filename="instances/Geran-Light.ufo">
+   <location>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance stylename="Regular" name="Regular" familyname="Geran" filename="instances/Geran-Regular.ufo">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance stylename="Medium" name="Medium" familyname="Geran" filename="instances/Geran-Medium.ufo">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance stylename="SemiBold" name="SemiBold" familyname="Geran" filename="instances/Geran-SemiBold.ufo">
+   <location>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance stylename="Bold" name="Bold" familyname="Geran" filename="instances/Geran-Bold.ufo">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+  <instance stylename="ExtraBold" name="ExtraBold" familyname="Geran" filename="instances/Geran-ExtraBold.ufo">
+   <location>
+    <dimension name="weight" xvalue="800"/>
+   </location>
+  </instance>
+  <instance stylename="Black" name="Black" familyname="Geran" filename="instances/Geran-Black.ufo">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>
